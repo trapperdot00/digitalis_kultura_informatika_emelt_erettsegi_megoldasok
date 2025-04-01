@@ -1,0 +1,60 @@
+﻿Francia forradalmi naptár
+A francia forradalmi naptár, más néven: köztársasági naptár (calendrier républicain) az 1789. évi francia forradalmat követően, 1793. november 24-étől volt használatos 1805. szeptember 9-éig. A forradalmi naptárt franciák naptára (calendrier des Français) néven is emlegetik.
+Megalkotása és bevezetése
+A francia forradalom világi állammá alakította át Franciaországot. A köztársasági naptár megalkotásának legfőbb célja az volt, hogy az új korszakot radikálisan megkülönböztesse a kereszténységhez szorosan kötődő Gergely-naptártól, kiirtsa a vallási maradványokat, racionális, a forradalomhoz méltó elnevezéseket és időbeosztásokat alkosson. A Nemzeti Konvent II. esztendő Fagy hava 4-i (1793. november 24.) rendeletével lépett hatályba. A rendelet eltörölte az ún. „közönséges időszámítást”, vagyis a Krisztus születését központnak tevő naptárt, és 1792. szeptember 22-ét jelölte ki a „francia időszámítás” kezdőnapjának. Az új időszámítás tehát az I. esztendővel kezdődött, „nulladik év” nem volt.
+Az új időszámítás kezdőnapjaként a forradalom szempontjából több fontos dátum is szóba jött, így például 1789. július 14., a forradalom kitörésének napja. A Konvent végül is 1792. szeptember 22-ét, a királyság eltörlésének és a köztársaság kikiáltásának időpontját választotta, mivel ez a nap csillagászatilag is jelentős dátum: az őszi napéjegyenlőség napja.
+A rendelet szerint a köztársasági év annak a napnak éjfélével kezdődött, amelyre a valós őszi napéjegyenlőség esett a Párizsi Obszervatóriumnál. Ezt a tényt minden évben csillagászoknak kellett megállapítaniuk, így az évkezdet lehetett szeptember 22., 23., illetve 24.
+Mindössze tizennégy évig volt használatban. XIII. esztendő Gyümölcs hava 22-én (1805. szeptember 9.) I. Napóleon császár aláírta a szenátusi határozatot, amely eltörölte a köztársasági naptár használatát, és 1806. január 1-jei hatállyal visszaállította a Gergely-naptár szerinti időszámítást.
+A történelemben a köztársasági naptárt még egy alkalommal vezették be: 1871-ben (LXXIX. esztendő), a Párizsi Kommün idején, bár használata még a hivatalos közlönyben is következetlen volt.
+Felépítése
+A naptár felépítési elve a következő:
+A köztársasági naptár római számokkal jelzett évei az őszi napéjegyenlőség idején kezdődtek, 12 harmincnapos hónapból álltak (360 nap).
+A fennmaradó 5 pótnapot sans-culottides néven egy-egy erénynek szentelt ünnepként az év végére tették, hogy az évet a napéjegyenlőséghez igazítsák (~365 nap).
+Szökőévben az év végére helyezett 6. pótnap a forradalom ünnepe lett.
+Egy hónap 3 tíznapos dekádból állt.
+Egy nap 10 decimális órából, egy óra 100 decimális percből, egy perc pedig 100 decimális másodpercből állt, melyet további tízzel osztható részekre lehetett bontani addig „a legkisebb részig, amely az időtartam észlelésére alkalmas”.
+A szökőévek
+A köztársasági naptár szerint szökőév volt a III., VII. és a XI. esztendő, így az év végéhez egy hatodik pótnapot is beillesztettek, melyet a Forradalom napjának, nemzeti ünnepnek kiáltottak ki, és amely lezárta a franciade-ot, a négyéves időszakot.
+A naptárt a XIV. évben eltörölték, ezért csak találgatni lehet, hogy a szökőévek sora hogyan folytatódott volna, főleg amiatt, mert a 6. nap beiktatása is csak részben korrigálta a napköröket. Három feltételezés vitatkozik egymással:
+Egyesek szerint a szökőévek négyévente ismétlődtek volna (azaz XV., XIX,, XXIII. esztendő stb.)
+Mások szerint a szökőévet eltolták volna a XV. esztendőről a XX. esztendőre, mivel attól kezdve minden szökőév száma osztható lett volna néggyel (XX., XXIV., XXVIII. stb.). Ez az ugrás leegyszerűsítette volna a Gergely-naptárhoz való egyeztetést, mivel 1812. február 29-i szökőnapot néhány hónap múlva követte volna a XX. év Forradalmi napja. Ily módon az eltérés – a közel egy év különbözőség helyett – csupán néhány hónapon át tartott volna.
+A harmadik vélemény szerint a szökőévek beiktatása mindig úgy történt volna, hogy az adott év szüret havának 1. napja az őszi napéjegyenlőségre essen, mint például a XVI. esztendőben.
+A hónapok
+A hónapok elnevezésére először erkölcsi jellegű szavakat szántak: szabadság, igazságosság stb., azonban a Konvent az elképzelést elvetette és az egyik képviselő, Danton titkára, Fabre d’Églantine költő (ld. keretes rész) újonnan képzett szavait fogadta el, aki a névválasztás során ügyelt arra, hogy az egyes évszakok azonos végződésűek legyenek. Minden hónap neve a francia éghajlatot, vagy a paraszti élet fontosabb eseményeit tükrözte, a szavak hangzását illetően pedig az évszak hangulatát idézte.
+Noha a köztársasági naptárt eredetileg egyetemes naptárnak szánták, túlságosan „franciásra” sikeredett, hiszen csak Franciaország viszonyait vette figyelembe, és már a tengerentúli francia területeken is abszurdnak számított.
+Elnevezés	Elnevezés eredete	Magyar neve	Kezdete (Gergely-naptár)
+Vendémiaire	latin, vindemia, „szüret”	Szüret hava	szeptember 22., 23., 24.
+Brumaire	francia, brume, „párásság, ködfátyol”	Köd hava	október 22., 23., 24.
+Frimaire	francia, frimas, „ködös hideg idő”	Dér hava	november 21., 22., 23.
+Nivôse	latin, Nivosus, „havas”	Hó hava	december 21., 22., 23.
+Pluviôse	latin, pluviosus, „esős”	Eső hava	január 20., 21., 22.
+Ventôse	latin, ventosus, „szeles”	Szél hava	február 19. 20., 21.
+Germinal	latin, germen, „csíra, hajtás”	Sarjadás hava	március 21., 22.
+Floréal	latin, flor, „virág”	Virágzás hava	április 20., 21.
+Prairial	francia, prairie, „rét, mező”	Rét hava	május 20., 21.
+Messidor	latin, messis, „arat”	Aratás hava	június 19., 20.
+Thermidor	görög, thermosz, „forró, meleg”	Hőség hava	július 19., 20.
+Fructidor	a latin fructus, „gyümölcs” szóból	Gyümölcs hava	augusztus 18., 19.
+A dekádok
+A hónapok hetek helyett 3 dekádra lettek felosztva, melyen belül a napok sorszámot kaptak: Primidi, Duodi, Tridi, Quartidi, Quintidi, Sextidi, Septidi, Octidi, Nonidi, Decadi.
+A dekád első kilenc napja munkanap volt, a Decadi pedig ünnepnap. Az igazsághoz tartozik, hogy a hónap ilyenfajta felosztása a köznép körében egyáltalán nem aratott sikert, mivel a hagyományosan hét naponkénti úrnapi pihenő helyett, tíznaponként jutottak szabadnaphoz.
+A napok
+A mártír keresztény szentek emlékével, az Úr pihenőnapjával és az egyházi ünnepekkel való végleges szakítás, valamint egy praktikus földművelési naptár létrehozása érdekében a napoknak ugyancsak a vidéki élethez kötődő elnevezést adtak. A dekádok 5. napja haszonállatokról, a 10. napja mezőgazdasági eszközökről, a többi növényekről kapta a nevét. A Szüret hava első dekádja például a következő napokból állt: szőlő, sáfrány, gesztenye, kikerics, ló, nebáncsvirág, sárgarépa, bársonyvirág, paszternák, kád.
+Az év végére tett „köztársasági ünnepnapok” erkölcsi jellegű neveket kaptak:
+Erkölcs napja (Jour de la Vertu)
+Tehetség napja (Jour du Génie)
+Munka napja (Jour du Travail)
+Vélemény napja (Jour de l'Opinion)
+Jutalmazások napja (Jour des Récompenses)
+Forradalom napja (Jour de la Révolution) (csak a szökőévekben)
+Érdekességek
+A köztársasági naptár holdkörökön alapuló 30 napos hónapjai, valamint az évet kiegészítő pótnapok nem először fordultak elő a naptárkészítés történetében. Ugyanezt az elvet követi az ókori egyiptomi naptár is, melyet a kopt keresztények a mai napig használnak (kopt naptár).
+A magyar nyelvújítás idején Barczafalvi Szabó Dávid (1752?-1828) a francia köztársasági naptár hónapneveit vette alapul a magyarításhoz: mustonos, gémberes, fagyláros, zúzoros, enyheges, olvanos, nyilonos, zöldönös, termenes, halászonos, hévenes, gyümölcsönös.
+Példa egy keltezés francia köztársasági naptár szerinti leírására. 2005. október 18. leírása a köztársasági naptár szerint:
+CCXIV. esztendő Szüret hava padlizsán napja,
+CCXIV. esztendő Szüret hava 3. dekád 6. napja, vagy
+CCXIV. esztendő Szüret hava 26.
+Függelék: Napforduló és napéjegyenlőség
+A nap két szélső pont között mozog a látóhatáron. Télen, a téli napforduló időpontjában délkeleten kel és délnyugaton nyugszik, míg nyáron, a nyári napfordulókor északkeleten kel és északnyugaton nyugszik. A tavaszi és őszi napéjegyenlőség napján a Nap fél úton kel a két szélső pont között: éppen keleten kel és pontosan nyugaton nyugszik.
+Nyári napforduló
+Őszi napéjegyenlőség
