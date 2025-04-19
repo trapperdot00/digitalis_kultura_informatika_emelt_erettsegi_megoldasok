@@ -1,0 +1,679 @@
+ÉRETTSÉGI VIZSGA • 2024. október 22.
+
+Azonosító
+jel:
+
+DIGITÁLIS KULTÚRA
+EMELT SZINTŰ
+GYAKORLATI VIZSGA
+2024. október 22. 8:00
+Időtartam: 240 perc
+Beadott dokumentumok
+Piszkozati pótlapok száma
+A választott feladat
+betűjelét írja ide
+a dolgozat befejezésekor!
+
+Értékelésre az alábbi
+állományokat adom be:
+
+A. Dokumentumkészítés
+B. Táblázatkezelés
+
+Adatbázis-kezelés
+
+A program forráskódját tartalmazó állomány nevét adja meg!
+
+Algoritmizálás és programozás
+
+Digitális kultúra
+E2312
+
+OKTATÁSI HIVATAL
+Nat2020
+
+Azonosító
+jel:
+
+Digitális kultúra
+E2312
+
+2 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+Fontos tudnivalók
+Az 1A. Dokumentumkészítés és az 1B. Táblázatkezelés feladatok közül csak az egyik
+feladatot kell megoldania. A vizsga befejezésekor a feladatlap első oldalán írja be
+a megfelelő helyre a választott feladat betűjelét.
+Ha a javító tanár számára nem derül ki egyértelműen, hogy melyik feladatot választotta, akkor
+az 1A. jelű feladat kerül értékelésre.
+A vizsgán használható eszközök: a vizsgázó számára kijelölt számítógép, papír, toll, ceruza,
+vonalzó, lepecsételt jegyzetlap.
+A feladatlap belső oldalain és a jegyzetlapon készíthet jegyzeteket, ezeket a vizsga végén be
+kell adni, de tartalmukat nem fogják értékelni.
+A feladatokat tetszőleges sorrendben oldhatja meg.
+Felhívjuk a figyelmet a gyakori (10 percenkénti) mentésre, és feltétlenül javasoljuk a mentést
+minden esetben, mielőtt egy másik feladatba kezd.
+Vizsgadolgozatát a feladatlapon található azonosítóval megegyező nevű vizsgakönyvtárba
+kell mentenie! Ellenőrizze, hogy a feladatlapon található kóddal megegyező nevű könyvtár
+elérhető-e, ha nem, még a vizsga elején jelezze a felügyelő tanárnak!
+Munkáit a vizsgakönyvtárába mentse, és a vizsga végén ellenőrizze, hogy minden megoldás
+a megadott könyvtárban van-e, mert csak ezek értékelésére van lehetőség! Ellenőrizze, hogy
+a beadandó állományok olvashatók-e, mert a nem megnyitható állományok értékelése nem
+lehetséges!
+Az adatbáziskezelés feladat csak abban az esetben értékelhető, ha a részfeladatok megoldását
+adó lekérdezések SQL-kódját tartalmazó szövegfájlokat a vizsgakönyvtárába mentette.
+A beadott program csak abban az esetben értékelhető, ha ön létrehozta a használt programozási
+környezetnek megfelelő forrásállomány(oka)t a vizsgakönyvtárában, és az tartalmazza
+a részfeladatok megoldásához tartozó forráskódot.
+A forrásfájlokat a vizsgakönyvtárban találja.
+Javasoljuk, hogy először olvassa végig a feladatokat, utána egyenként oldja meg az egyes részfeladatokat.
+Amennyiben számítógépével műszaki probléma van, jelezze a felügyelő tanárnak! A jelzés
+ténye és a megállapított hiba jegyzőkönyvezésre kerül. A kiesett idővel a vizsga ideje hosszabb
+lesz. Amennyiben a hiba mégsem számítógépes eredetű, a javító tanár értékeléskor köteles
+figyelembe venni a jegyzőkönyv esetleírását. (A rendszergazda nem segítheti a vizsgázót
+a dolgozat elkészítésében.)
+A vizsga végén a feladatlap első oldalán Önnek fel kell tüntetnie a vizsgakönyvtárban és
+alkönyvtáraiban található, Ön által előállított és beadott fájlok nevét. Az algoritmizálás és
+programozás feladatnál a program forráskódját tartalmazó állomány nevét elég megadnia.
+A vizsga végeztével addig ne távozzon, amíg ezt meg nem tette, és a felügyelő tanárnak ezt be
+nem mutatta!
+
+Digitális kultúra
+E2312
+
+3 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+1A. Iskolacsalogató
+A Csalogány Iskola „Iskolacsalogató” napot szervez az iskola iránt érdeklődő gyerekek és
+szüleik számára. Feladata a rendezvény reklámozásához szükséges grafika, valamint weblap
+elkészítése. A rendezvény reklámozásához szükséges plakátsablon (plakat.png)
+rendelkezésére áll, azt kell feltöltenie megfelelő tartalommal.
+A felhasználandó szövegeket az iskolacsalogato.txt fájlban találja. A szükséges
+képek: plakat.png, ceruzak.png, robot.png.
+Készítse el a grafikát az alábbi utasítások szerint!
+1. Nyissa meg a plakat.png képet rasztergrafikus képszerkesztő programmal, amely
+támogatja a rétegek használatát! Mentse el a képet grafika néven a program
+alapértelmezett formátumában!
+2. Illessze be az „Iskolacsalogató” szöveget és helyezze el talp nélküli betűtípussal, félkövér
+betűstílussal RGB(71, 130, 72) színkódú színnel! A szöveg legalább 360 képpont széles
+legyen! A szöveget forgassa el 15°-kal az óra járásával ellentétes irányba, és helyezze el a
+minta szerint! Ügyeljen arra, hogy a szöveg ne lógjon rá a sötétebb kék területre!
+3. Illessze be új rétegre a robot.png képet, és a méretarányok megtartásával méretezze át
+úgy, hogy szélessége 160 képpont legyen! A réteg neve Robotika legyen! A képet
+helyezze el a minta szerint!
+4. A robot két szemöldökét és a testén lévő fehér téglalapot retusálja a robot fejével, illetve
+testével megegyező színűvé!
+5. Készítsen egy új réteget Hangjegy1 néven, amelynek mérete 150 képpont széles és
+120 képpont magas legyen! Ezen rajzolja meg fekete színnel a két ellipszisből és három
+vonalból álló két hangjegyet a minta szerint! Ügyeljen arra, hogy a vonalak függőlegesek
+legyenek, az összekötő vonal pedig vízszintes! A rajz szélessége legalább 100 képpont,
+magassága legalább 60 képpont legyen!
+6. Készítsen másolatot az előzőleg létrehozott, a két hangjegyet tartalmazó rétegről
+Hangjegy2 néven! Oldja meg, hogy a két hangjegy szürke színnel jelenjen meg!
+Törekedjen arra, hogy az eredeti hangjegyek alakja ne sérüljön meg az átalakítás során!
+7. Helyezze el a két hangjegypárt a minta szerint úgy, hogy az egyik hangjegypár függőleges
+szára metssze a másik hangjegypár vízszintes vonalát! Ügyeljen arra, hogy a fekete
+hangjegypár takarja a szürke hangjegypárt!
+8. Illessze be új rétegre a ceruzak.png képet! A réteg neve Ceruzák legyen! A kép bal és
+jobb oldali széleiről vágjon le 3-3 ceruzát, vagyis csak a középső hat ceruza (a világoskéktől
+a pirosig) maradjon a képen! A képen lévő fehér területeket tegye átlátszóvá! A képet ezek
+után a méretarányok megtartásával méretezze át úgy, hogy magassága 160 képpont legyen!
+9. A robotot, az alsó hangjegypárt és a ceruzákat igazítsa úgy, hogy aljuk azonos magasságban,
+a halványkék terület aljától legalább 15 képpontnyi távolságra kerüljön! Ügyeljen arra, hogy
+semelyik kép se takarja el a szöveget!
+10. Mentse el a képet a program alapértelmezett formátumában! Ezután exportálja
+a végeredményt grafika néven, PNG formátumban is! A weblap készítésénél ez utóbbi
+képet kell majd beillesztenie.
+
+Digitális kultúra
+E2312
+
+4 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+Minta az Iskolacsalogató című feladat grafika részéhez:
+
+Grafika
+
+A feladat a következő oldalon folytatódik.
+Digitális kultúra
+E2312
+
+5 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+Az iskolai weblapon elhelyezett hirdetést az alábbi utasítások alapján készítése el!
+A csalogato.html és a csalogato.css állomány módosításával hozzon létre egy
+honlapot a mintán látható tartalommal és formázással! Az eredeti állományokról érdemes
+biztonsági másolatot készítenie. A HTML-állomány már tartalmazza a HTML5 szabvány
+szerinti alapstruktúrát. A stíluslap állományban található szabályokat Önnek kell kiegészítenie
+a feladatnak megfelelően. Ügyeljen arra, hogy a HTML-állományban ne alkalmazzon
+a megjelenítésre vonatkozó stílusdefiníciókat, azokat kizárólag a meglévő CSS állományban
+helyezze el!
+11. A forrásszöveg (iskolacsalogato.txt) első bekezdését helyezze el egyes szintű
+címsorban!
+12. Ugyanezt a szöveget állítsa be a weblap böngészőfülön megjelenő címeként is!
+13. A forrásszöveg következő bekezdését helyezze el egy bekezdésben, amelynek adja az info
+egyedi azonosítót! A mintán látható félkövér, illetve dőlt kiemeléseket megfelelő
+HTML-címkékkel valósítsa meg!
+14. Illesszen be egy 4 sorból és 2 oszlopból álló táblázatot, melynek első sorában fejléccellák,
+a többi sorában adatcellák legyenek! Illessze be a cellák tartalmát a forrásszövegből a minta
+szerint!
+15. A táblázat alatti szöveget helyezze el egy új bekezdésben!
+16. A „regisztrálják magukat az eseményre!” szövegre helyezzen el hivatkozást, amely
+a regisztracio.html oldalra mutasson! (Ezt az oldalt nem kell létrehoznia.)
+17. A fenti bekezdés alatt, önálló bekezdésben helyezze el a korábban elkészített
+grafika.png képet! (Ha ezt nem készítette el, használja az eredeti plakat.png képet!)
+A képhez tartozó helyettesítő leírásnak „Az esemény plakátja” című szöveget gépelje be!
+18. Az előbbi bekezdésben, a kép után illessze be a „Mindenkit várunk sok szeretettel!”
+szöveget! A kép és a szöveg között megfelelő HTML-címkével állítson be sortörést!
+A bekezdést sorolja be a kozepre nevű osztályba, amelyet a későbbiekben írunk le!
+A stíluslap módosítását (csalogato.css) az alábbiak szerint végezze el!
+19. Módosítsa az info nevű egyedi azonosítóra vonatkozó szabályt úgy, hogy a háttérszín
+világosszürke (lightgray) legyen!
+20. Hozza létre a kozepre nevű osztályt, és állítsa be rá, hogy a szöveges tartalom az adott
+osztályba tartozó elemeknél középre igazodjon!
+21. Állítsa be, hogy az oldalon lévő minden kép 400 képpont szélességben jelenjen meg!
+(Az oldalon jelenleg csak egy kép található, de azt szeretnénk, hogy a későbbiekben
+beillesztett képek is ebben a méretben jelenjenek meg.)
+22. Állítsa be, hogy az oldalon minden szöveg Arial betűtípussal, amennyiben nem áll
+rendelkezésre, akkor az alapértelmezett talp nélküli (sans-serif) betűtípussal jelenjen meg!
+Ez a beállítás csak egyszer szerepeljen a stíluslap állományban, vagyis ne állítsa be külön
+a bekezdésekre, címsorokra stb.!
+35 pont
+
+Digitális kultúra
+E2312
+
+6 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+Minta az Iskolacsalogató című feladat weblap részéhez:
+
+Weblap
+Digitális kultúra
+E2312
+
+7 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+1B. Bolygópályák
+A csillagászok már az ókortól fogva rendszeresen figyelik
+a bolygók égi mozgását. A bolygók vagy csillagok helyzetét
+a Föld esetében használt hosszúsági és szélességi körökhöz
+hasonlóan két adattal adják meg. Az első az Égi Egyenlítőn
+egy meghatározott ponttól mért látszólagos távolság, amit –
+a Föld tengely körüli 24 órás forgása miatt – az idő
+egységeivel mérnek, neve rektaszcenzió, jele RA. A második
+a bolygó helyének az Egyenlítő síkjával bezárt szöge, neve
+deklináció, jele Dec. A rektaszcenzió RA értékét óra, perc
+és másodperc mennyiségekkel, a deklináció Dec
+szögét előjellel, illetve fok, fokperc és fokmásodperc
+mennyiségekkel adják meg.
+Például az 1 15 38,23 rektaszcenzió számhármas
+RA = 1h 15m 38,23s időt jelent, míg a + 66 17 32,6 deklináció egy pozitív szög, az Égi
+Egyenlítőtől az északi pólus felé haladva Dec = 66° 17’ 32,6”.
+A mars_ra_dec.txt és a venus_ra_dec.txt szóközökkel tagolt, UTF-8 kódolású
+szöveges állomány a Mars és a Vénusz 2022. év minden napjának kezdetén megfigyelt
+helyzetét tartalmazza, RA és Dec mennyiségekkel megadva. A továbbiakban a két bolygó
+mozgását fogjuk elemezni táblázatkezelő segítségével. Oldja meg az alábbi feladatokat
+egyszerű szövegszerkesztő, illetve táblázatkezelő segítségével!
+A megoldás során vegye figyelembe a következőket!
+ Amennyiben lehetséges, a megoldás során képletet, függvényt, hivatkozást
+használjon!
+ A részfeladatok között van olyan, amely egy korábbi kérdés eredményét használja fel.
+Ha a korábbi részfeladatot nem sikerült teljesen megoldania, használja a megoldását
+úgy, ahogy van, vagy írjon be egy valószínűnek tűnő eredményt, és azzal dolgozzon
+tovább! Így ugyanis pontokat kaphat erre a részfeladatra is.
+ Segédszámításokat az R oszloptól jobbra vagy a 370. sortól lefelé végezhet.
+Mindkét állomány elején és végén összesen több mint 100 sornyi szöveg található,
+amelyekre a feladat megoldása közben nem lesz szüksége. Csak az a 365 sor kell a feladatok
+megoldásához, amelyekben nem szerepel más, mint az adott nap dátuma és a hat számérték.
+1. Másolja le a két forrásállományt mars.txt és venus.txt néven!
+2. Törölje az így kapott állományokból az elején és végén található sorokat, amelyek nem
+a nap dátumát és a bolygó helyzetét tartalmazzák!
+3. Az RA és Dec értékek harmadik száma tizedes tört, amit az angolszáz írásmódban
+tizedespont jelöl. Cserélje a két állományban az összes pont karaktert vesszőre, hogy
+az adatokat a későbbiek során a táblázatkezelő is tizedes törtként értelmezze!
+4. Mentse el a módosított mars.txt és venus.txt állományokat egyszerű szöveges
+állományként! A továbbiakban ezekből a fájlokból tudja importálni vagy másolni a bolygók
+adatait!
+5. Hozzon létre egy táblázatkezelő munkafüzetet, és mentse bolygopalyak néven a program
+alapértelmezett formátumában!
+6. Töltse be vagy importálja a Mars bolygó adatait a mars.txt fájlból egy munkalapra, és
+figyeljen arra, hogy a fájlban az adatokat elválasztó karakter a szóköz! (Az előjel külön
+oszlopba kerül.) Nevezze el a munkalapot Mars néven!
+Digitális kultúra
+E2312
+
+8 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+7. Töltse be vagy importálja a Vénusz bolygó adatait a venus.txt fájlból egy munkalapra,
+és figyeljen arra, hogy a fájlban az adatokat elválasztó karakter a szóköz! (Az előjel külön
+oszlopba kerül.) Nevezze el a munkalapot Vénusz néven!
+8. Hozzon létre egy munkalapot Pályák néven! A munkalapon lévő táblázat fejlécét
+a mintának megfelelően alakítsa ki! A fejléc szövegét gépelje be vagy illessze be
+a fejlec.txt UTF-8 kódolású, szóközökkel tagolt szöveges állományból, és rendezze el
+a mintának megfelelően!
+A további feladatok a Pályák munkalapra vonatkoznak.
+9. Az A3:A367 tartomány celláiban képlettel vagy kitöltéssel adja meg a 2022.01.01-től
+2022.12.31-ig terjedő dátumértékeket!
+10. A B3:G367 tartomány celláiban hivatkozással jelenítse meg a Mars munkalapról a
+megfelelő naphoz tartozó RA és Dec értékeket! Figyeljen arra, hogy a Dec számhármas
+előtti előjel a fok, a fokperc és a fokmásodperc értékére egyaránt vonatkozik!
+11. A H3:H367 tartomány celláiban számítsa ki a B:D oszlopokban lévő RA értékből az RA
+idejét másodpercben (s)! Ehhez az órát 3600-zal és a percet 60-nal szorozva adja össze
+a három értéket!
+12. Az I3:I367 tartomány celláiban számítsa ki az E:G oszlopokban lévő Dec értékből a Dec
+szögét fokban (°)! Ehhez a szögperc (') 60-ad részét és a szögmásodperc ('') 3600-ad részét
+adja hozzá a fok (°) értékhez!
+13. A J3:O367 tartomány celláiban hivatkozással jelenítse meg a Vénusz munkalapról
+a megfelelő naphoz tartozó RA és Dec értékeket!
+14. A P3:Q367 tartományban a Marshoz hasonlóan számítsa ki a Vénusz esetén is
+a rektaszcenzió idejét másodpercben (s) és a deklináció szögét fokban (°)!
+15. Formázza a munkafüzet celláit a mintának és az alábbi leírásnak megfelelően! Figyeljen
+arra, hogy a táblázat minden cellájának teljes tartalma olvasható legyen!
+a. A B:G és a J:O tartomány tizenkét oszlopában állítson be azonos oszlopszélességet!
+b. A G:H és az O:P tartomány számainál állítson be egy tizedesjeggyel, az I és a Q
+oszlop számainál három tizedesjeggyel történő megjelenítést!
+c. A H:I és a P:Q tartomány négy oszlopában állítson be azonos oszlopszélességet!
+d. A táblázat fejlécét formázza a mintának megfelelően, ahol szükséges, vonjon össze
+cellákat, és alakítsa ki a megfelelő igazítást és betűstílust!
+e. A táblázat nem üres celláit szegélyezze folytonos vonallal!
+Minta a táblázat Pályák munkalapjához:
+
+A feladat a következő lapon folytatódik.
+Digitális kultúra
+E2312
+
+9 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+Digitális kultúra
+E2312
+
+10 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+16. Ábrázolja vonal típusú diagramon a két bolygó fokban (°) számított Dec szögének értékeit
+a teljes évre (2022.01.01-2022.12.31) a minta és az alábbi leírás alapján!
+a. Ne tartalmazzon a diagram jelmagyarázatot illetve a kategória (X) tengely
+feliratokat!
+b. A Mars adatsorát piros színnel, a Vénuszét kék színnel jelölje!
+c. Adjon meg diagramcímet „A Mars és a Vénusz mozgása 2022-ben – Dec”
+szöveggel! A diagramcímet helyezze el a mintának megfelelően!
+d. Helyezze el a diagramot a mintának megfelelően R1:AE30 tartományban!
+35 pont
+Minta a diagramhoz:
+
+Digitális kultúra
+E2312
+
+11 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+2. Asztalitenisz
+Az asztalitenisz népszerű játék és versenysport hazánkban. Az első országos bajnokságot
+1905-ben rendezték. Ma a bajnokság nyílt, azaz külföldi egyesületek tagjai is indulhatnak ötféle
+versenyszámban: férfi egyéni, női egyéni, férfi páros, női páros és vegyes páros. Az országos
+bajnokságok és bajnokok adatai állnak rendelkezésre egy adatbázisban, a következő
+feladatokban ezzel az adatbázissal kell dolgoznia.
+Az adatbázis a következő táblákat tartalmazza:
+
+Táblák:
+jatekos (id, nev, neme)
+id
+nev
+neme
+
+A játékos azonosítója (szám), ez a kulcs
+A játékos neve (szöveg), a megoldás során kihasználhatja, hogy nincs két
+azonos nevű játékos
+A játékos neme (szám), értéke férfi esetén 1, nő esetén 0
+
+bajnok (id, ev, vsz_id, jatekos_id, egyesulet_id)
+id
+ev
+vsz_id
+jatekos_id
+egyesulet_id
+
+A bajnoki cím azonosítója (szám), ez a kulcs
+A bajnokság éve (szám)
+A versenyszám azonosítója (szám)
+A bajnoki címet szerző játékos azonosítója (szám)
+A játékos ebben az évben melyik egyesületet képviselte (szám)
+
+versenyszam (id, nev)
+id
+nev
+
+A versenyszám azonosítója (szám), ez a kulcs
+A versenyszám neve (szöveg), értéke „férfi egyéni”, „női egyéni”, „férfi
+páros”, „női páros” és „vegyes páros” lehet
+
+egyesulet (id, nev, orszag)
+id
+nev
+orszag
+
+Az egyesület azonosítója (szám), ez a kulcs
+Az egyesület neve (szöveg)
+Az egyesület országa (szöveg)
+
+A következő feladatokat megoldó SQL-parancsokat rögzítse a feladatok végén zárójelben
+megadott nevű és .sql kiterjesztésű szöveges állományokba! Például a 2. feladat megoldását
+a 2harczi.sql nevű állományba. A javítás során csak ezeknek az állományoknak a tartalma
+értékelhető! Ügyeljen arra, hogy a lekérdezésekben pontosan a kívánt mezők szerepeljenek,
+felesleges mezőt ne jelenítsen meg!
+
+Digitális kultúra
+E2312
+
+12 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+1. A pingpong.sql állomány tartalmazza az adatbázist és a táblákat létrehozó, valamint
+az adatokat a táblába beszúró SQL-parancsokat! Futtassa a lokális SQL-szerveren
+a pingpong.sql parancsfájlt!
+2. Lekérdezés segítségével írassa ki, hogy „Harczi Zsolt” mely években és milyen
+versenyszámban szerzett bajnoki címet! (2harczi)
+3. Készítsen lekérdezést, amely meghatározza, hogy melyik évben adták ki a „vegyes páros”
+bajnoki címet először! (3vegyes)
+4. Lekérdezés segítségével adja meg, hogy hány férfi és hány női játékos van az adatbázisban!
+A létszám értékei mellett a nemek felirata is jelenjen meg! Segítségképpen az elágazás
+függvény használata SQL-ben: IF(feltétel, érték1, érték2) eredménye, ha a
+feltétel igaz, akkor érték1, különben érték2. (4letszam)
+5. Lekérdezés segítségével határozza meg, hogy a 2000-es év után a magyar egyesületeken
+kívül mely országok klubjainak játékosai nyertek bajnoki címet Magyarországon! Minden
+ország neve egyszer szerepeljen a listában! (5kulfoldiek)
+6. Készítsen lekérdezést, amely felsorolja az „MTK” egyesület bajnok játékosainak nevét!
+A listában először a nők, majd a férfiak jelenjenek meg, azon belül a nevek ábécérendben
+ismétlődés nélkül! (6mtk)
+7. Lekérdezés segítségével listázza ki azokat a játékosokat, akik csak egyszer és egyetlen
+bajnoki címet nyertek! A listában a nevük, a bajnoki cím éve és versenyszámuk neve
+jelenjen meg! (7egyszer)
+8. Lekérdezés segítségével listázza ki azoknak a versenyzőknek a nevét, akiknek az első és
+utolsó bajnoki címe között legalább 10 év telt el! A listában a nevek és az eltelt évek száma
+jelenjen meg, az utóbbiak szerint csökkenő sorrendben! (8sokaig)
+9. „Pergel Szandra” több vegyes páros bajnoki címet nyert. Készítsen lekérdezést, amely
+felsorolja, hogy kik voltak a párjai! A listában minden név egyszer jelenjen meg! (9parok)
+35 pont
+
+Digitális kultúra
+E2312
+
+13 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+3. Autók mozgása
+Egy autóút meghatározott szakaszán vizsgálták az egyik irányba haladó autók mozgását.
+A vizsgálat során az autókba épített rádióadók jeleket sugároztak az útszakaszra történő
+belépéskor, majd ezt követően bizonyos időpontokban. A gépkocsik mozgását tekinthetjük úgy,
+hogy a jeladáskor mért sebességgel haladtak a következő jeladásig. A mért adatok a
+jeladas.txt szöveges állományban találhatók, melynek első néhány sora a következő:
+TLJ-509
+TLJ-509
+AVY-894
+ANF-997
+ZVJ-638
+AVY-894
+ANF-997
+
+6
+6
+6
+6
+6
+6
+6
+
+4
+14
+15
+17
+20
+23
+26
+
+95
+88
+98
+86
+119
+105
+88
+
+Minden sorban egy jeladás adatai szerepelnek tabulátorral elválasztva: az autó rendszáma,
+a jeladás idejének óra, illetve perc értéke, valamint a jeladáskor mért sebesség
+km/h mértékegységben. Az adatfelvétel reggel 6:00 és 22:45 között történt. A fenti példában a
+TLJ-509 rendszámú autó érkezett először az útszakasz elejéhez 6:04 perckor, és 10 percig
+haladt 95 km/h sebességgel, majd 6:14-től 88 km/h sebességgel.
+Az autók száma legfeljebb 200, a jeladások száma legfeljebb 2000. Az óra, perc és sebesség
+értékek egész számok. Minden autó csak egyszer haladt át az útszakaszon. A bemeneti
+állományban a jeladások időrendben szerepelnek, de az időpontokat csak perc pontossággal
+rögzítették.
+Készítsen programot, amely a járművek adatait felhasználva az alábbi feladatokat oldja meg!
+A program forráskódját mentse autok néven! A program megírásakor a bemeneti állományban
+található vagy a felhasználó által megadott adatok helyességét, érvényességét nem kell
+ellenőriznie, feltételezheti, hogy azok a leírtaknak megfelelnek.
+A képernyőre írást igénylő részfeladatok eredményének megjelenítése előtt írja a képernyőre
+a feladat sorszámát (például: 2. feladat:), és az eredmények megjelenítésekor utaljon
+a tartalomra! Ha a felhasználótól kér be adatot, jelenítse meg a képernyőn, hogy milyen értéket
+vár! Az ékezetmentes kiírás is elfogadott a képernyőn történő megjelenítés során.
+1. Olvassa be és tárolja el a további feldolgozáshoz a jeladas.txt állomány tartalmát!
+2. Állapítsa meg, hogy milyen időpontban történt a legutolsó jeladás, és írja a képernyőre
+az időpontot, valamint az utoljára jelet adó autó rendszámát!
+3. Írja ki a bemeneti állományban elsőként szereplő jármű rendszámát, valamint azt, hogy
+milyen időpontokban adott jelzést! Az időpontokat óra:perc formátumban, szóközzel
+elválasztva, egy sorban jelenítse meg!
+4. Kérje be a felhasználótól egy időpont óra és perc értékét, és adja meg, hogy hány jeladás
+történt az adott időpontban! Ha nem történt jeladás, akkor 0-t írjon ki!
+5. Állapítsa meg, hogy mennyi az adatok szerint a legnagyobb sebesség, amellyel egy jármű
+a jeladáskor haladt, illetve adja meg az összes autó rendszámát, ami haladt ilyen sebességgel!
+Amennyiben egy jármű többször is haladt a legnagyobb sebességgel, akkor a rendszámát
+többször is megjelenítheti. A rendszámokat egy sorban, szóközzel elválasztva jelenítse meg
+a minta szerint!
+
+Digitális kultúra
+E2312
+
+14 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+6. Kérje be a felhasználótól egy jármű rendszámát, és jelenítse meg a jármű jeladásainak
+időpontját és az adott rendszámú autó távolságát az útszakasz kezdetétől! A bevezető
+példában az első jármű esetén a 6:04-kor a jármű távolsága az útszakasz kezdetétől 0,0 km,
+míg 6:14-kor 15,8 km, mivel a jármű az eltelt 10 perc (10/60 óra) alatt 95 km/h-val haladt.
+A kimenetet a mintának megfelelőn alakítsa ki, a távolságot minden esetben egy
+tizedesjegyre kerekítve írja ki km mértékegységben! Ha nem szerepel a bekért rendszámmal
+jármű, akkor azt egy rövid mondatban jelezze a felhasználónak!
+7. Készítsen egy ido.txt szöveges állományt, amelynek mindegyik sorában egy-egy jármű
+rendszáma, illetve első és utolsó jeladásának óra és perc értéke szerepeljen! Az állományban
+minden jármű pontosan egyszer forduljon elő tetszőleges sorrendben!
+50 pont
+Minta a felhasználóval történő kommunikációra:
+2. feladat:
+Az utolsó jeladás időpontja 22:45, a jármű rendszáma MWO-680
+3. feladat:
+Az első jármű: TLJ-509
+Jeladásainak időpontjai: 6:4 6:14 6:30 6:32 6:51 6:54 7:7 7:19 7:30 7:31
+4. feladat:
+Kérem, adja meg az órát: 6
+Kérem, adja meg a percet: 54
+A jeladások száma: 3
+5. feladat:
+A legnagyobb sebesség km/h: 154
+A járművek: XQE-678 PAL-958
+6. feladat:
+Kérem, adja meg a rendszámot: ZVJ-638
+6:20 0.0 km
+6:33 25.8 km
+6:39 37.7 km
+…
+7:23 123.2 km
+7:31 140.0 km
+
+Minta az ido.txt szöveges állományra:
+TLJ-509 6 4 7 31
+AVY-894 6 15 7 33
+ANF-997 6 17 8 3
+ZVJ-638 6 20 7 31
+DZW-809 6 26 8 10
+…
+
+Források:
+1A. Iskolacsalogató
+https://pixabay.com/illustrations/illustration-child-clipart-graphics-2814002/
+https://pixabay.com/vectors/animation-colors-pencil-school-1298762/
+https://pixabay.com/vectors/robot-robotic-technology-software-2027195
+
+Utolsó letöltés: 2022. 08.04.
+Utolsó letöltés: 2022. 08.04.
+Utolsó letöltés: 2022. 08.04.
+
+1B. Bolygópályák
+https://ssd.jpl.nasa.gov/horizons/app.html#/
+https://hu.wikipedia.org/wiki/Ekvatoriális_koordináta-rendszerek
+
+Utolsó letöltés: 2022. 08.16.
+Utolsó letöltés: 2022. 08.16.
+
+2. Asztalitenisz
+https://hu.wikipedia.org/wiki/Magyar_asztalitenisz-bajnokság
+
+Digitális kultúra
+E2312
+
+Utolsó letöltés: 2022. 07.17.
+
+15 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+Azonosító
+jel:
+
+pontszám
+maximális
+elért
+Dokumentumkészítés
+1A. Iskolacsalogató
+vagy
+35
+Táblázatkezelés
+1B. Bolygópályák
+választott feladat: ……………………
+Adatbázis-kezelés
+2. Asztalitenisz
+Algoritmizálás, adatmodellezés
+3. Autók mozgása
+A gyakorlati vizsgarész pontszáma
+
+dátum
+
+35
+50
+120
+
+javító tanár
+
+__________________________________________________________________________
+
+pontszáma egész
+számra kerekítve
+programba
+elért
+beírt
+Dokumentumkészítés
+vagy
+Táblázatkezelés
+Adatbázis-kezelés
+Algoritmizálás, adatmodellezés
+
+Digitális kultúra
+E2312
+
+dátum
+
+dátum
+
+javító tanár
+
+jegyző
+
+16 / 16
+
+emelt szintű gyakorlati vizsga
+2024. október 22.
+
+

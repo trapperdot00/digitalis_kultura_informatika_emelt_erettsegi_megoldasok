@@ -1,0 +1,576 @@
+ÉRETTSÉGI VIZSGA • 2023. október 25.
+
+Azonosító
+jel:
+
+Informatika
+
+INFORMATIKA
+EMELT SZINTŰ
+GYAKORLATI VIZSGA
+minden vizsgázó számára
+
+2023. október 25. 8:00
+Időtartam: 240 perc
+Beadott dokumentumok
+Piszkozati pótlapok száma
+Beadott fájlok száma
+A beadott fájlok neve
+
+OKTATÁSI HIVATAL
+emelt szint — gyakorlati vizsga 2313
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+Fontos tudnivalók
+A vizsgán használható eszközök: a vizsgázó számára kijelölt számítógép, papír, toll, ceruza,
+vonalzó, lepecsételt jegyzetlap.
+A feladatlap belső oldalain és a jegyzetlapon készíthet jegyzeteket, ezeket a vizsga végén be
+kell adni, de tartalmukat nem fogják értékelni.
+A feladatokat tetszőleges sorrendben oldhatja meg.
+Felhívjuk a figyelmet a gyakori (10 percenkénti) mentésre, és feltétlenül javasoljuk a mentést
+minden esetben, mielőtt egy másik feladatba kezd.
+Vizsgadolgozatát a feladatlapon található azonosítóval megegyező nevű vizsgakönyvtárba
+kell mentenie! Ellenőrizze, hogy a feladatlapon található kóddal megegyező nevű könyvtár
+elérhető-e, ha nem, még a vizsga elején jelezze a felügyelő tanárnak!
+Munkáit a vizsgakönyvtárába mentse, és a vizsga végén ellenőrizze, hogy minden megoldás
+a megadott könyvtárban van-e, mert csak ezek értékelésére van lehetőség! Ellenőrizze, hogy
+a beadandó állományok olvashatók-e, mert a nem megnyitható állományok értékelése nem
+lehetséges!
+Amennyiben az adatbázis-kezelés feladatát LibreOffice Base alkalmazásban oldja meg,
+a táblamódosító lekérdezéseket leíró SQL-parancsokat vagy a LibreOffice Base adatbázis-állomány részeként, vagy pedig egy külön szövegállományban kell beadnia. Szövegfájl beadása
+esetén a szövegfájl neve egyértelműen utaljon a tartalmára (például SQL-parancsok.txt),
+valamint az állományban a parancs mellett szerepeltesse az előírt lekérdezésnevet!
+MySQL adatbázismotor használata esetén az adatbázis adatait is le kell menteni egy
+úgynevezett „dump” fájlba.
+A beadott program csak abban az esetben értékelhető, ha a vizsgázó létrehozta a választott
+programozási környezetnek megfelelő forrásállomány(oka)t a vizsgakönyvtárában, és az tartalmazza a részfeladatok megoldásához tartozó forráskódot.
+A forrásfájlokat a vizsgakönyvtárban találja.
+Javasoljuk, hogy a feladatokat először olvassa végig, utána egyenként oldja meg az egyes részfeladatokat!
+Amennyiben számítógépével műszaki probléma van, jelezze a felügyelő tanárnak! A jelzés
+ténye és a megállapított hiba jegyzőkönyvezésre kerül. A kiesett idővel a vizsga ideje hosszabb
+lesz. Amennyiben a hiba mégsem számítógépes eredetű, a javító tanár értékeléskor köteles
+figyelembe venni a jegyzőkönyv esetleírását. (A rendszergazda nem segítheti a vizsgázót a
+dolgozat elkészítésében.)
+A vizsga végén a feladatlap első oldalán Önnek fel kell tüntetnie a vizsgakönyvtárban és alkönyvtáraiban található, Ön által előállított és beadott fájlok számát, illetve azok nevét.
+A vizsga végeztével addig ne távozzon, amíg ezt meg nem tette, és a felügyelő tanárnak ezt be
+nem mutatta!
+Kérjük, jelölje be, hogy mely operációs rendszeren dolgozik, és melyik programozási környezetet használja!
+ Windows
+ Linux
+Operációs rendszer:
+Programozási környezet:
+
+
+
+
+FreePascal
+Lazarus
+JAVA SE
+
+2313 gyakorlati vizsga
+
+
+
+
+
+
+
+
+
+GCC
+Perl 5
+Python
+
+2 / 12
+
+Visual Studio
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+1. Üzemanyag
+Néhány éve új jelölést kapott a benzin és a gázolaj a benzinkutakon. Az Ön feladata, hogy
+készítsen egy bemutatót a régi és az új jelölésekről, a matricákról, valamint a rövidítésekről.
+A diák szövegét az UTF-8 kódolású uzemforras.txt fájlban találja.
+1. Készítsen öt diából álló bemutatót a minta és a leírás alapján! Munkáját mentse uzemanyag
+néven a bemutatókészítő program alapértelmezett formátumában!
+Egységes beállítások a dián
+2. A bemutatón a következő beállításokat végezze el!
+a. Állítson be 33 cm széles, 18,5 cm magas diaméretet!
+b. A diákon egységesen Arial (Nimbus Sans) betűtípust használjon, a diák címében
+50 pontos, a szövegében 27 pontos betűméretet, ahol a feladat nem kér mást!
+c. A címek félkövér betűstílusúak legyenek!
+A diák elkészítése során a szöveg minta szerinti tagolásához a meglévő szövegdobozokat
+mozgathatja, átméretezheti, illetve készíthet újakat is.
+3. A diák szövegét a minta alapján gépelje be, vagy az uzemforras.txt szöveges
+állományból másolja át!
+4. Az első 4 dián helyezzen el két 2,7 cm magasságú, teljes diaszélességű téglalapot a minta
+szerint!
+a. A felső 4,4 cm-re, az alsó 11,2 cm-re legyen a bal felső saroktól függőlegesen!
+b. Mindkettő szegély nélküli legyen!
+c. A felső kitöltése legyen fekete, az alsóé pedig piros!
+5. Az első dián a cím a két téglalap között, a második dián a fekete téglalap fölött, vízszintesen
+középre igazítottan jelenjen meg!
+6. A második dián a két téglalap között a szöveg dőlt betűstílussal, felsorolásjel nélkül jelenjen
+meg! A szövegre alkalmazzon balra zárt igazítást!
+A harmadik dián a régi matricajelölések jelennek meg.
+7. Helyezze el a „régi jelölések” szöveget a fekete téglalap előtt, annak bal oldalán, ahhoz
+képest függőlegesen középen, fehér betűszínnel! Állítsa be, hogy ugyanez a felirat 60-80
+pont közötti betűmérettel, félkövér betűstílussal, világosszürke betűszínnel a fekete téglalap
+fölött is megjelenjen! A téglalap a betűk alsó szárát, az üzemanyag-jelölések pedig a felirat
+nagyobb részét a minta szerint takarják!
+
+A feladat a következő oldalon folytatódik.
+
+2313 gyakorlati vizsga
+
+3 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+8. A minta szerinti négy kis táblát készítse el az adott elrendezésben! Minden kis táblát két
+különböző – egy fehér és egy fekete szegélyű – alakzat egymásra helyezésével kell
+kialakítania.
+a. A nagyobb alakzatok befoglaló téglalapjának szélessége 5 cm, szegélye fehér színű és
+4 pont vastagságú legyen!
+b. Az első két kör és a rombusz világoszöld, a harmadik kör citromsárga kitöltésű legyen!
+Ezekben az alakzatokban fehér, illetve fekete legyen a betűszín!
+c. A kisebb alakzatoknak fekete szegélye legyen! Ezeket 2 pont vastag szegélyű, kitöltés
+nélküli, 4,8 cm széles befoglaló téglalapú alakzatok beszúrásával hozza létre! A külső
+alakzatokhoz képest függőlegesen és vízszintesen igazítsa középre!
+d. A kis táblákban helyezze el a feliratokat középre akkora betűmérettel, hogy a
+szegélyekhez ne érjenek hozzá, de a szöveg hossza az átmérő felénél nagyobb legyen!
+A minta szerint különböző betűméreteket és Arial (Nimbus Sans) betűtípust
+alkalmazzon!
+A negyedik dián a régi és az új matricajelölések jelennek meg.
+9. A negyedik dia tartalmazza a harmadik dia minden elemét, és azokat egészítse ki! Helyezze
+el a piros téglalap bal oldalára, függőlegesen középre, fehér betűszínnel az „új jelölések”
+szöveget! Ez a felirat ismétlődjön meg a piros téglalap fölött a világosszürke „régi
+jelölések” szöveg beállításainak megfelelően!
+10. A minta szerinti további alakzatokat szúrja be az új matricák létrehozásához!
+a. A körök, a lekerekített sarkú téglalap és a rombusz befoglaló téglalapjának szélessége
+5 cm, szegélye 4 pont vastagságú és fekete színű legyen!
+b. Állítsa fehérre a négy alakzat kitöltését, bennük a szöveg fekete színű, Arial
+(Nimbus Sans) betűtípusú és félkövér betűstílusú legyen!
+c. Az alakzatokban helyezze el a feliratokat középre akkora betűmérettel, hogy a
+szegélyekhez ne érjenek hozzá, de a szöveg hossza az átmérő felénél nagyobb legyen!
+d. A minta szerinti 4 nyilat, a régitől az új jelölés felé mutatva szúrja be! A nyilak
+világoskék kitöltésűek, szegély nélküliek, azonos méretűek, befoglaló téglalapjuk
+magassága 1 és 2 cm közötti legyen!
+Az ötödik dián a jelölések értelmezése jelenik meg.
+11. A dián a cím vízszintesen középre igazítottan jelenjen meg!
+12. A szöveg felsorolásjel nélkül, a szövegdobozon belül balra igazítottan jelenjen meg! Az
+első és a harmadik bekezdést piros betűszínnel, dőlt és fékövér betűstílussal formázza meg!
+13. Hangsúlyozza félkövér betűstílussal a második és negyedik bekezdésben az üzemanyagok
+jelölését!
+30 pont
+
+Forrás
+A feladatlap bázisszövegei az eredeti forrásszövegek módosításával (rövidítésével, nyelvtani egyszerűsítésével), adatainak felhasználásával,
+de az eredeti szöveg, adatok integritásának megtartása mellett jöttek létre. Az eredeti szövegek, adatok, képek forrása:
+https://www.alon.hu/orszagos-hirek/2018/10/uj-europai-uzemanyag-jelolesek-a-benzinkutakon-ezt-jelolik-az-uj-betuk-cimkek-e-es-b-tudjamelyik-a-benzine Utolsó letöltés: 2022. szeptember 18.
+http://www.dp-automotive.hu/dpa_benzin.html Utolsó letöltés: 2022. szeptember 18.
+https://librarius.hu/2018/10/12/matol-uj-uzemanyag-jeloleseket-hasznalnak-a-benzinkutakon/ Utolsó letöltés: 2022. szeptember 18.
+
+2313 gyakorlati vizsga
+
+4 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+Minta az Üzemanyag feladathoz:
+
+1. dia
+
+2. dia
+
+3. dia
+
+4. dia
+
+5. dia
+
+2313 gyakorlati vizsga
+
+5 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+2. Próbavizsga
+Egy iskolában próbavizsgát szerveznek a 12. évfolyamos diákoknak. A megmaradt szabad
+helyekre jelentkezhetnek a 11. évfolyamos diákok. Az érdeklődők olyan sokan vannak, hogy
+minden osztályból van legalább 3 jelentkező. Az iskola úgy döntött, hogy mind az öt 11.
+osztályból (A-E) az első 3 jelentkezőt fogadják a próbavizsgán. A webes űrlap adatai
+a jelentkez.txt állományban a jelentkezés sorrendjében állnak rendelkezésre. Legfelül van
+a legkorábbi jelentkező. Ezenkívül tudjuk, hogy minden diáknak a neve „Vezetéknév Utónév”
+formájú, például a forrásállományban az első jelentkező: „Morgó Olívia”.
+Táblázatkezelő program segítségével oldja meg a következő feladatokat!
+A megoldás során vegye figyelembe a következőket!
+ Amennyiben lehetséges, a megoldás során képletet, függvényt, hivatkozást
+használjon!
+ Segédszámításokat a L oszloptól jobbra végezhet.
+ A részfeladatok között van olyan, amely egy korábbi kérdés eredményét használja
+fel. Ha a korábbi részfeladatot nem sikerült teljesen megoldania, használja
+a megoldását úgy, ahogy van, vagy írjon be egy valószínűnek tűnő eredményt, és
+azzal dolgozzon tovább! Így ugyanis pontokat kaphat erre a részfeladatra is.
+1. Töltse be a tabulátorokkal tagolt, UTF-8 kódolású jelentkez.txt szövegfájlt
+a táblázatkezelőbe az A1-es cellától kezdődően! Munkáját probavizsga néven mentse el
+a táblázatkezelő alapértelmezett formátumában!
+2. Az E1-es és az F1-es cellába rendre írja be az „Osztály”, illetve a „Jelentkező” szavakat!
+Az E2:E6 tartomány celláiba írja be az öt 11. évfolyamos osztály jelét (11. A, … 11. E) a
+minta szerinti sorrendben! Az F2:F6 tartomány celláiban másolható képlettel határozza
+meg, hogy melyik osztályból hány diák jelentkezett! Az értékek „ fő” egyéni formátumban
+jelenjenek meg (például: „5 fő”)!
+3. Az I1-es cellába írja be az „Osztály” szót, az I2-es cellába pedig egy létező osztály jelét! A
+példa szerint ez a „11. B”. A C2:C38 tartomány celláiban adja meg, hogy az adott diák
+hányadik jelentkező az I2-es cellában megadott osztályból! Az értékeket képlettel határozza
+meg! Más osztályok diákjai esetén ne jelenjen meg semmi a C oszlop megfelelő cellájában!
+4. A H3:H5 tartomány celláiba írja be rendre az „1”, „2”, „3” számokat! Az I3:I5 tartomány
+celláiban másolható képlettel adja meg, hogy mi a neve az I2-es cellában megadott
+osztályból a H3:H5 megfelelő cellája szerinti sorszámmal szereplő diáknak!
+5. A próbavizsga szervezőinek szükségük van a résztvevők vezeték- és utónevének első
+karakterére. A J3:J5 tartomány celláiban képlettel adja meg az I3:I5 tartomány celláiban
+található nevekre ezeket a betűket! Minden diáknak egy vezetékneve és egy utóneve van
+egy szóközzel elválasztva.
+
+2313 gyakorlati vizsga
+
+6 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+6. A cellák formázását a következők szerint állítsa be!
+a. Az E2:F6, H3:J5 tartomány celláira állítson be világosszürke kitöltést!
+b. Az A2:B38 tartomány cellái közül azoknak a név-osztály párosoknak a cellái kapjanak
+automatikusan zöld kitöltést, amelyeknél az osztály jele az I2-es cellában található
+osztály jelével megegyezik!
+c. Úgy állítsa be az oszlopszélességeket, hogy minden adat olvasható legyen, az A és az
+I oszlop szélessége egyezzen meg, továbbá az I1-es és I2-es cellák tartalmát igazítsa
+vízszintesen középre!
+15 pont
+Minta:
+
+2313 gyakorlati vizsga
+
+7 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+3. Szakkörök
+Egy középiskola tanárai a tanév kezdetén szakköröket hirdetnek meg, majd a diákok ezekre
+a szakkörökre jelentkeznek. A meghirdetett szakkörök neve, a diákok néhány adata, valamint
+a diákok jelentkezései állnak rendelkezésünkre. A továbbiakban ezeket kell feldolgoznia
+adatbázis-kezelő segítségével a következő feladatok megoldása során.
+1. Készítsen új adatbázist szakkorok néven! A mellékelt három – tabulátorokkal tagolt,
+UTF-8 kódolású – szöveges állományt (diak.txt, szakkor.txt, jelentkezes.txt)
+importálja az adatbázisba a fájlnévvel azonos néven (diak, szakkor, jelentkezes)!
+Az állományok első sora a mezőneveket tartalmazza. A létrehozás során állítsa be
+a megfelelő típusokat és a kulcsokat!
+
+Táblák:
+diak (azon, nev, evfolyam, betujel)
+azon
+nev
+evfolyam
+betujel
+
+A diák azonosítója (szám), ez a kulcs
+A diák neve (szöveg)
+A diák évfolyama (szám)
+A diák osztályának betűjele (szöveg)
+
+szakkor (azon, mk, nev, tanar)
+azon
+mk
+nev
+tanar
+
+A szakkör azonosítója (szám), ez a kulcs
+A szakkört meghirdető tanári munkaközösség neve (szöveg)
+A szakkör neve (szöveg); a szakkörök neve egyedi
+A szakkört tartó tanár neve (szöveg)
+
+jelentkezes (azon, diakazon, szakazon)
+azon
+diakazon
+szakazon
+
+A jelentkezés azonosítója (szám), ez a kulcs
+A jelentkező diák azonosítója (szám)
+A szakkör azonosítója, amelyre a diák jelentkezik (szám)
+
+A tanárok az általuk tanított szakok szerint munkaközösségeket alkotnak. A szakkörök neve
+egyedi, tehát nincs két azonos nevű szakkör.
+A diákok osztályait az évfolyam és a betűjel együtt azonosítja. Nincs az adatbázisban két azonos
+nevű, egy osztályba járó diák, és csak azokról a diákokról van adat, akik jelentkeztek
+valamilyen szakkörre. Egy-egy diák több szakkörre is jelentkezett, előfordul, hogy többre, mint
+amire majd a tanév során ténylegesen jár.
+A következő feladatok megoldásánál a lekérdezéseket és a jelentést a zárójelben olvasható
+néven mentse! Ügyeljen arra, hogy a lekérdezésekben pontosan a kívánt mezők szerepeljenek,
+felesleges mezőt ne jelenítsen meg!
+
+2313 gyakorlati vizsga
+
+8 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+2. Készítsen lekérdezést, amely megadja a 10. évfolyam C osztályának szakkörre jelentkező
+tanulóinak a nevét ábécérendben! A listában minden név csak egyszer jelenjen meg!
+(2oszt10c)
+3. Készítsen lekérdezést, amely megadja azokat a szakköröket és az ezeket meghirdető
+tanárokat, amely szakkörök nevében szerepel a „programoz” vagy a „robotika” szórészlet!
+(3progrob)
+4. Készítsen lekérdezést, amely megadja azokat a szakköröket, amelyekre legalább 10-en
+jelentkeztek! A lekérdezés a szakkör nevét, a szakkört tartó tanár nevét, a meghirdető
+munkaközösséget, valamint a jelentkezők számát jelenítse meg! (4legalabb10)
+5. Készítsen lekérdezést, amely megadja azokat az osztályokat, amelyekből jelentkeztek
+a „Matematika” munkaközösséghez tartozó egyik szakkörre! A lista legyen az osztályok
+évfolyama, azon belül betűjel szerint rendezve, és a listában minden osztály csak egyszer
+jelenjen meg! (5matmk)
+6. Készítsen lekérdezést, amely megadja azon szakkörök nevét, amelyekre csak a 10. vagy a
+11. évfolyamról jelentkeztek, és más évfolyamról nem! (6csak1011)
+7. Készítsen lekérdezést, amely megadja „Beke Fanni” évfolyamtársai közül azokat, akikkel
+közös szakkörre jár! A lekérdezés jelenítse meg a szakkörök és a diákok nevét! A névsorban
+„Beke Fanni” neve ne jelenjen meg! (7bekevel)
+8. Készítsen jelentést a „2. idegen nyelv” munkaközösség szakköreiről! A jelentést
+lekérdezéssel készítse elő! A jelentés legyen a minta szerint csoportosítva, és egy-egy
+szakkörnél a tanulók ábécérendben kövessék egymást! A jelentés tartalmát a minta szerint
+készítse el, de a formázásában a mintától eltérhet! A jelentésben legyen minden adat teljes
+szélességben olvasható! (8nyelv2)
+
+9. Készítsen lekérdezést, amely megadja azt az osztályt, ahonnan a legtöbbféle szakkörre
+jelentkeztek a tanulók! A lekérdezés az osztály évfolyamát, betűjelét és a különböző
+szakkörök számát jelenítse meg! A megoldás során feltételezheti, hogy csak egy ilyen
+osztály van. (9legtobb)
+30 pont
+
+2313 gyakorlati vizsga
+
+9 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+4. Társas
+Mi sem izgalmasabb a gyerekeknek, mint a nagyszülők szekrényeiben való kutakodás. Egy ilyen
+alkalommal az öt unoka egy régi dobozra bukkant. A doboz egy társasjáték kellékeit rejtette: a játék
+tábláját, egy dobókockát és hat különböző színű, lúd formájú bábut. A táblán több ösvényen lehet
+eljuttatni a ludat az itatóhoz. A játékosok a kezdés előtt kiválasztják a közös ösvényt, amelyen
+haladni fognak.
+A ludak annyi mezőt ugorhatnak előre, amennyit a játékosok dobnak a kockával.
+Az ösvényen lehetnek különleges mezők, amelyekre érkezve:
+ a lúd előreugorhat még egyszer annyit, mint amennyit dobott a játékos,
+ vissza kell térnie arra a mezőre, amelyről indította az ugrást.
+Az osvenyek.txt fájl soronként egy ösvény adatait tartalmazza. Az ösvények sorszámozása
+1-től kezdődik. Az állomány legfeljebb 50 sorból, soronként legfeljebb 250 karakterből áll. Minden
+sorban egy-egy karaktersorozat van. A karakterek az M, E, V nagybetűk. Az M karakter egy
+mindenféle különleges tulajdonságtól mentes mezőt jelent. Ha valaki az E karakterű mezőre lép,
+előreugorhat még ugyanannyit, mint amennyivel ide jutott. Ha a V karakterű mezőre lép, a bábunak
+vissza kell térnie oda, ahonnan ide ugrott. Két egymást követő különleges karakter között mindig
+legalább 6 darab M karakter van.
+A játék akkor ér véget, ha mindenki ugyanannyiszor dobott, és legalább egy játékos elérte az utolsó
+mezőt, vagy túllépett rajta. Azok a nyertesek, akik elérték az utolsó mezőt vagy túlléptek rajta.
+A dobasok.txt fájl egyetlen, szóközökkel tagolt sorból áll, amely a kockával egymást követően
+dobott értékeket tartalmazza. A fájlban 1 és 6 közötti számokból legfeljebb 2000 található. Tudjuk,
+hogy ennyi dobás biztosan elegendő a játék befejezéséhez. Azt nem rögzítettük, hogy melyik értéket
+melyik játékos dobta.
+Részlet a dobasok.txt állomány első sorából:
+2 4 6 5 6 1 …
+
+Ha két játékos játszik, akkor dobásaik értékei felváltva szerepelnek a dobasok.txt állományban.
+Tehát az első játékos először 2-t dob, majd a második játékos 4-et, utána az első játékos 6-ot, a
+második játékos 5-öt, és így tovább.
+Részlet az osvenyek.txt állomány első néhány sorából:
+MMMMMMMMMMM…M
+MEMMMMMMEMMMMMMMMMMM…
+…
+
+Ha a második ösvényen játszanak (az MEMM kezdetűn), akkor az első játékos 2-es dobásával
+a második mezőre lép. Ez E típusú mező, ezért azonnal, dobás nélkül még két mezővel előrelép,
+így jut az első dobásával először a kettes, majd a négyes mezőre. Ezt követően a második játékos a
+4-es dobásával a negyedik mezőre lép. Ez M típusú, azaz mindenféle különleges tulajdonságtól
+mentes, így játékosunk a következő dobásig itt marad. Ismét az első játékos jön. Ő a 6-os dobásával
+a tizedik mezőre léphet tovább. Ez M típusú, ezért nem lép innen el, a második játékos jön. Ő az
+5-ös dobásával a negyedik mezőről a kilencedik mezőre lép. Ez E típusú, tehát rögtön előreléphet
+a dobásának megfelelően újabb öt mezőt. A következő ábra ezeket a lépéseket szemlélteti:
+
+Készítsen programot, amely az állományok adatait felhasználva megoldja az alábbi feladatokat!
+A program forráskódját mentse lud néven! A program megírásakor a felhasználó által megadott
+adatok helyességét, érvényességét nem kell ellenőriznie, és feltételezheti, hogy a beolvasandó
+adatok a leírtaknak megfelelnek.
+
+2313 gyakorlati vizsga
+
+10 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+A képernyőre írást igénylő részfeladatok esetén – a mintához tartalmában hasonlóan – írja ki a
+képernyőre a feladat sorszámát (például: 5. feladat), és utaljon a kiírt tartalomra is! Ha a
+felhasználótól kér be adatot, jelenítse meg a képernyőn, hogy milyen értéket vár! Mindkét esetben
+elfogadott az ékezetmentes kiírás is.
+1. Olvassa be és tárolja el az osvenyek.txt és a dobasok.txt állományok tartalmát!
+2. Jelenítse meg a képernyőn, hogy hány ösvény adatait tartalmazza az osvenyek.txt fájl,
+és mennyi dobás szerepel a dobasok.txt fájlban!
+3. Határozza meg, hogy melyik ösvény áll a legtöbb mezőből, és jelenítse meg az ösvény
+sorszámát és a mezők számát! Ha több ilyen is van, elegendő egyet megjelenítenie.
+4. Olvassa be és tárolja el egy ösvény sorszámát és a játékot játszók számát (legalább 2,
+legfeljebb 5)! A későbbiekben ezekkel az adatokkal dolgozzon!
+5. Készítsen statisztikát a megadott sorszámú ösvény mezőiből! Jelenítse meg, hogy ez milyen
+típusú mezőből mennyit tartalmaz! Ha egy adott típusú mező nem szerepel, akkor azt ne
+jelenítse meg! (Megoldása teszteléséhez használja az első három ösvényt is, ezek ugyanis
+nem tartalmaznak minden karaktert!)
+6. Írja a kulonleges.txt fájlba, hogy a választott ösvény mely mezői különlegesek!
+Soronként egy mezőt adjon meg a mező sorszámával és a mező típusát megadó karakterrel!
+A két értéket egy tabulátor karakterrel válassza el egymástól!
+7. Határozza meg, hogy melyik játékos jutna a legmesszebb, ha a választott ösvényen minden
+mező M típusú lenne! Jelenítse meg a legtávolabb jutó(k) sorszámát és azt, hogy a dobások
+hányadik körében alakult ki a végeredmény! Ha több ilyen játékos van, elegendő csak egyet
+megjelenítenie.
+8. Határozza meg, ki nyer, ha figyelembe veszi a mezők típusát is! Jelenítse meg a nyertes(ek)
+sorszámát és azt, hogy a többi bábu milyen sorszámú mezőn áll az utolsó teljes kör végén!
+45 pont
+Példa a szöveges kommunikáció kialakításához:
+2. feladat
+A dobások száma: 1956
+Az ösvények száma: 43
+3. feladat
+Az egyik leghosszabb a(z) 11. ösvény, hossza: 206
+4. feladat
+Adja meg egy ösvény sorszámát! 9
+Adja meg a játékosok számát! 5
+5. feladat
+M: 185 darab
+V: 8 darab
+E: 8 darab
+7. feladat
+A játék a(z) 54. körben fejeződött be. A legtávolabb jutó(k) sorszáma: 5
+8. feladat
+Nyertes(ek): 4 5
+A többiek pozíciója:
+1. játékos, 153. mező
+2. játékos, 185. mező
+3. játékos, 183. mező
+
+2313 gyakorlati vizsga
+
+11 / 12
+
+2023. október 25.
+
+Informatika
+emelt szint
+
+Azonosító
+jel:
+
+pontszám
+maximális
+elért
+Szövegszerkesztés, prezentáció,
+grafika, weblapkészítés
+1. Üzemanyag
+Táblázatkezelés
+2. Próbavizsga
+Adatbázis-kezelés
+3. Szakkörök
+Algoritmizálás, adatmodellezés
+4. Társas
+A gyakorlati vizsgarész pontszáma
+
+dátum
+
+30
+15
+30
+45
+120
+
+javító tanár
+
+__________________________________________________________________________
+
+pontszáma egész
+számra kerekítve
+programba
+elért
+beírt
+Szövegszerkesztés, prezentáció,
+grafika, weblapkészítés
+Táblázatkezelés
+Adatbázis-kezelés
+Algoritmizálás, adatmodellezés
+
+2313 gyakorlati vizsga
+
+dátum
+
+dátum
+
+javító tanár
+
+jegyző
+
+12 / 12
+
+2023. október 25.
+
+

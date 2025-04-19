@@ -1,0 +1,551 @@
+ÉRETTSÉGI VIZSGA • 2024. május 21.
+
+Azonosító
+jel:
+
+DIGITÁLIS KULTÚRA
+EMELT SZINTŰ
+GYAKORLATI VIZSGA
+2024. május 21. 8:00
+Időtartam: 240 perc
+Beadott dokumentumok
+Piszkozati pótlapok száma
+A választott feladat
+betűjelét írja ide
+a dolgozat befejezésekor!
+
+Értékelésre az alábbi
+állományokat adom be:
+
+A. Dokumentumkészítés
+B. Táblázatkezelés
+
+Adatbázis-kezelés
+
+A program forráskódját tartalmazó állomány nevét adja meg!
+
+Algoritmizálás és programozás
+
+OKTATÁSI HIVATAL
+Digitális kultúra
+E2411
+
+Nat2020
+
+Azonosító
+jel:
+
+Források
+A feladatlap bázisszövegei az eredeti forrásszövegek módosításával (rövidítésével, nyelvtani egyszerűsítésével),
+adatainak felhasználásával, de az eredeti szöveg, adatok integritásának megtartása mellett jöttek létre. Az eredeti
+szövegek, adatok, képek forrása:
+
+1A. Danuvia
+https://www.danuvia125.hu/images/szakirodalom/danuviaalkatreszkat.pdf Utolsó letöltés: 2023.09.14.
+
+Digitális kultúra
+E2411
+
+2 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+Fontos tudnivalók
+Az 1A. Dokumentumkészítés és az 1B. Táblázatkezelés feladatok közül csak az egyik
+feladatot kell megoldania. A vizsga befejezésekor a dolgozat első oldalán írja be
+a megfelelő helyre a választott feladat betűjelét!
+Ha a javító tanár számára nem derül ki egyértelműen, hogy melyik feladatot választotta, akkor
+az 1A. jelű feladat kerül értékelésre.
+A vizsgán használható eszközök: a vizsgázó számára kijelölt számítógép, papír, toll, ceruza,
+vonalzó, lepecsételt jegyzetlap.
+A feladatlap belső oldalain és a jegyzetlapon készíthet jegyzeteket, ezeket a vizsga végén be
+kell adni, de tartalmukat nem fogják értékelni.
+A feladatokat tetszőleges sorrendben oldhatja meg.
+Felhívjuk a figyelmet a gyakori (10 percenkénti) mentésre, és feltétlenül javasoljuk a mentést
+minden esetben, mielőtt egy másik feladatba kezd.
+Vizsgadolgozatát a feladatlapon található azonosítóval megegyező nevű vizsgakönyvtárba
+kell mentenie! Ellenőrizze, hogy a feladatlapon található kóddal megegyező nevű könyvtár
+elérhető-e, ha nem, még a vizsga elején jelezze a felügyelő tanárnak!
+Munkáit a vizsgakönyvtárába mentse, és a vizsga végén ellenőrizze, hogy minden megoldás
+a megadott könyvtárban van-e, mert csak ezek értékelésére van lehetőség! Ellenőrizze, hogy
+a beadandó állományok olvashatók-e, mert a nem megnyitható állományok értékelése nem
+lehetséges!
+Az adatbázis-kezelés feladat csak abban az esetben értékelhető, ha a részfeladatok megoldását
+adó lekérdezések SQL-kódját tartalmazó szövegfájlokat a vizsgakönyvtárába mentette.
+A beadott program csak abban az esetben értékelhető, ha ön létrehozta a használt programozási
+környezetnek megfelelő forrásállomány(oka)t a vizsgakönyvtárában, és az tartalmazza
+a részfeladatok megoldásához tartozó forráskódot.
+A forrásfájlokat a vizsgakönyvtárban találja.
+Javasoljuk, hogy először olvassa végig a feladatokat, utána egyenként oldja meg az egyes részfeladatokat.
+Amennyiben számítógépével műszaki probléma van, jelezze a felügyelő tanárnak! A jelzés
+ténye és a megállapított hiba jegyzőkönyvezésre kerül. A kiesett idővel a vizsga ideje hosszabb
+lesz. Amennyiben a hiba mégsem számítógépes eredetű, a javító tanár értékeléskor köteles
+figyelembe venni a jegyzőkönyv esetleírását. (A rendszergazda nem segítheti a vizsgázót
+a dolgozat elkészítésében.)
+A vizsga végén a feladatlap első oldalán Önnek fel kell tüntetnie a vizsgakönyvtárban és
+alkönyvtáraiban található, Ön által előállított és beadott fájlok nevét. Az algoritmizálás és
+programozás feladatnál a program forráskódját tartalmazó állomány nevét elég megadnia.
+A vizsga végeztével addig ne távozzon, amíg ezt meg nem tette, és a felügyelő tanárnak ezt be
+nem mutatta!
+
+Digitális kultúra
+E2411
+
+3 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+1A. Danuvia
+Nagyapám a régi motorok szerelmese. Nemrég vásárolt egy 1954-ben gyártott Danuvia
+motorkerékpárt. Szeretnénk meglepni őt a motor kezelési útmutatójával, amelyhez az útmutató
+szövege és az interneten fellelhető néhány minta van segítségünkre. Ebben a feladatban a motor
+logóját és az útmutatót kell elkészítenie az alábbi leírásnak és a mintának megfelelően. Ehhez
+használja fel az utmutato.txt UTF-8 kódolású szöveges állományt, valamint a félig kész
+logót tartalmazó emblema.svg nevű vektorgrafikus képet!
+Az embléma elkészítése
+1. Nyissa meg az emblema.svg képet, hajtsa végre az alábbi
+módosításokat, majd mentse el a fájlt ugyanezen a néven
+a munkakönyvtárába!
+a. A belső kör közepéről hiányzó fekete színű és körvonal
+nélküli körcikkeket 50 mm sugarú körből készítse el!
+Ügyeljen arra, hogy a körcikkek határoló sugarai
+párhuzamosak legyenek a kép széleivel!
+b. A körcikkek határoló sugarai mentén helyezzen el egy-egy
+fehér színű, körvonal nélküli, 2-3 mm széles téglalapot!
+c. Az embléma közepén található D betű objektumot
+elkészítheti körökből és téglalapból halmazműveletek
+segítségével. A felhasznált körök átmérője 80-83 mm,
+55-65 mm, a szárat alkotó téglalap szélessége pedig 815 mm legyen! A betűt igazítsa függőlegesen középre,
+vízszintesen pedig úgy helyezze el, hogy a betű szára a kép
+középvonalától balra legyen! Az alakzat legyen fekete, és
+látszódjon körülötte vékony fehér körvonal!
+A kezelési útmutató elkészítése
+2. Hozza létre szövegszerkesztő program segítségével a danuvia nevű dokumentumot
+a program alapértelmezett formátumában az utmutato.txt szöveges állomány
+felhasználásával!
+3. A dokumentum legyen álló tájolású és A5-ös lapméretű! Az alsó és a felső margót állítsa
+1,5 cm-re, a bal és a jobb margót pedig 2 cm-re!
+4. A forrásban szereplő „cm3” karaktersorozat minden előfordulásában a „3” karakter felső
+indexben legyen látható!
+5. Állítson be automatikus elválasztást az egész szövegre!
+6. A dokumentumban – ahol más előírás nem szerepel – a mintának megfelelően használjon
+Open Sans, illetve EB Garamond betűtípust!
+7. Készítse el az első oldalt a minta alapján! A gépgyár adatai a szövegterület aljához igazított
+szövegdobozba kerüljenek a minta szerinti elrendezésben! Az emblema.svg képet 4×4 cm
+méretben helyezze el a minta szerint! Az oldalon mindent igazítson vízszintesen középre!
+8. Hozzon létre egy bekezdésstílust Szöveg néven, amelynek betűtípusa Open Sans,
+betűmérete 9 pontos, egyszeres sorközű, előtte 6, utána 0 pontos a térköz, igazítása
+sorkizárt!
+
+Digitális kultúra
+E2411
+
+4 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+9. A második oldaltól kezdve formázza a szöveget a Szöveg és a Címsor 2 stílus segítségével!
+A Címsor 2 stílust a felkiáltójellel kezdődő bekezdésekre alkalmazza! A bekezdéskezdő
+felkiáltójeleket törölje a dokumentumból!
+10. Formázza meg a tabulátorokat tartalmazó bekezdéseket!
+a. A műszaki leíráshoz tartozó bekezdéseket 6 cm-re helyezett tabulátorok használatával
+alakítsa ki a minta alapján!
+b. Az egyes sebességfokozatokhoz tartozó sebességtartományok bekezdéseiben mindkét
+értéket jobbra zárt tabulátorokkal pozícionálja – a minta szerint!
+Minta:
+
+Digitális kultúra
+E2411
+
+5 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+1B. Lámpák
+Egy lapon A, B, C, D, E és F jelöléssel 6 darab lámpa van elhelyezve. A lámpák függetlenek
+egymástól, mindegyikhez egy-egy kapcsoló tartozik, amellyel csak a hozzá tartozó lámpa beés kikapcsolása végezhető. Kezdetben minden kapcsoló kikapcsolt állapotban van.
+A kapcsolókat véletlenszerűen kapcsoljuk egyik állásból a másikba, és figyeljük az égő lámpák
+számát.
+Táblázatkezelő program segítségével szimulálja, majd értékelje ki a kísérletet!
+A megoldás során vegye figyelembe a következőket!
+ Amennyiben lehetséges, a megoldás során képletet, függvényt, hivatkozást
+használjon!
+ Segédszámításokat az S oszloptól jobbra végezhet.
+ A részfeladatok között van olyan, amely egy korábbi kérdés eredményét használja
+fel. Ha a korábbi részfeladatot nem sikerült teljesen megoldania, használja
+a megoldását úgy, ahogy van, vagy írjon be egy valószínűnek tűnő eredményt, és
+azzal dolgozzon tovább! Így ugyanis pontokat kaphat erre a részfeladatra is.
+1. Táblázatkezelő program segítségével készítse el a szimuláció modelljét! Mentse a táblázatot
+lampak néven a táblázatkezelő alapértelmezett formátumában!
+2. Az első sorban helyezze el a mintának megfelelő oszlopfejlécet! Az A3-as cellától lefelé,
+a Sorszám felirat alatti cellákat töltse fel 1.-100.-ig egész sorszámokkal! Ezek lesznek
+a kapcsolók megnyomásának sorszámai.
+Minta:
+
+3. A B3:B102 tartomány celláiban jelenítsen meg egy-egy véletlenszerűen választott
+kapcsolóhoz tartozó betűjelet! Másolható függvényt használjon!
+4. A C2:H2 tartomány celláit töltse fel üres szöveggel, azaz az ="" képlettel!
+5. A C:H oszlopok celláiban az égők be-, illetve kikapcsolt állapotát jelenítse meg „Ég”
+felirattal, illetve üresen megjelenő cellával! Azaz az adott sor B oszlopában található
+betűhöz tartozó lámpa „Ég” feliratának megjelenítését változtassa meg a felette lévő sorhoz
+képest, de a többi lámpa állapota maradjon változatlan!
+Digitális kultúra
+E2411
+
+6 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+6. Az I3:I102 tartomány celláiban minden kapcsolás után írassa ki, hogy aktuálisan hány
+lámpa ég!
+7. Feltételes formázással emelje ki narancssárga kitöltőszínnel a C3:H102 tartományban
+azokat a sorokat, amelyekben mind a hat lámpa ég!
+8. A K3:K5 tartomány celláiban a feliratokat készítse el a minta szerint!
+9. Az L3:R3 tartomány celláiba az égő lámpák darabszámának lehetséges értékei kerüljenek
+0-tól 6-ig!
+10. Az L4:R4 tartomány celláiba írjon képletet, amellyel meghatározza az égő lámpák
+számának gyakoriságát, azaz azt, hogy hányszor fordul elő az adott darabszám!
+11. Az L5-ös cellában határozza meg, hogy hányadik kapcsolásnál fordult elő először, hogy
+mind a hat lámpa egyidejűleg bekapcsolt állapotban volt! Ha ilyen nem volt, akkor a „Nincs
+ilyen” felirat jelenjen meg!
+12. A táblázat formázását a következő leírás és a minta alapján végezze el!
+a. A munkalap celláiban a tartalom vízszintesen középre igazított legyen, kivéve
+a K oszlopban, amelyben balra!
+b. Az első sor celláiban a szövegek legyenek félkövér betűstílusúak!
+c. Az A1, B1 és I1-es cellák szövegeinek írásirányát és tördelését állítsa a mintának
+megfelelően!
+d. A K3:R4 tartomány celláit vékony fekete vonallal szegélyezze!
+e. Az oszlopok szélességét úgy válassza meg, hogy a cellák tartalma olvasható
+legyen, de az A:H oszlopok szélessége az alapértelmezettnél keskenyebb
+legyen!
+13. A gyakoriságot oszlopdiagramon ábrázolja! A diagram a gyakoriságtáblázat L:R
+oszlopaiban jelenjen meg, jelmagyarázat nélkül! A diagram címe a minta szerinti szöveg
+legyen!
+35 pont
+
+Digitális kultúra
+E2411
+
+7 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+2. Ingatlanközvetítő iroda
+Egy nagyobb városban évről évre sok ingatlan cserél gazdát. Az eladók és a vásárlók
+egymásra találását ingatlanközvetítő irodák segítik. Egy ilyen iroda néhány évi működésének
+lakásokra és családi házakra vonatkozó adatait tartalmazó adatbázisával kell dolgoznia.
+A feladat megoldása során kihasználhatja, hogy minden ingatlan csak egyszer szerepel, és
+mindegyiket csak egyszer hirdették meg.
+Amikor az eladók felkeresik az irodát, megadják az ingatlanuk adatait, amelyeket
+az adatbázisban rögzítenek. A későbbiekben csak az ingatlan árát módosíthatják – akár többször
+is. A meghirdetéskor, az ár módosításakor és az eladáskor új rekordot rögzítenek az árat
+tartalmazó táblába, hogy a hirdetés előzményei dátum alapján visszakereshetőek legyenek.
+
+Táblák:
+ingatlan (id, kozterulet, hazszam, lakas, falazat)
+id
+Az ingatlan azonosítója (szám), ez az elsődleges kulcs
+kozterulet
+A közterület neve, ahol az ingatlan található (szöveg), például Első utca,
+Második tér stb.
+hazszam
+A házszám, amely alatt az adott közterületen az ingatlan található (szöveg)
+lakas
+Megadja, hogy az ingatlan lakás vagy ház (logikai), ha értéke 1, akkor
+lakás, ha 0, akkor ház
+falazat
+Az épület falazatának típusa (szöveg), például tégla, panel stb.
+hirdetes (id, ingatlanid, ar, allapot, datum)
+id
+A hirdetés azonosítója (szám), ez az elsődleges kulcs
+ingatlanid
+Az ingatlan azonosítója, amelyhez a hirdetés tartozik (szám), idegen kulcs
+ar
+Az ingatlan millió forintban megadott, adott naptól érvényes ára (három
+tizedes pontosságú szám). Az eladva állapothoz az eladási ár tartozik.
+allapot
+A hirdetés állapota (szöveg), a mező értéke háromféle lehet: meghirdetve,
+módosítva, eladva. Amikor az ingatlan az adatbázisba kerül, állapota
+„meghirdetve” lesz. Ezt követően az eladó akár többször is módosíthatja a
+hirdetésben szereplő árat, ekkor „módosítva” állapottal szerepel a
+bejegyzés. Ha az ingatlant eladják, a bejegyzésbe „eladva” állapot kerül,
+árként az eladási ár szerepel, amely különbözhet az utolsó bejegyzett ártól.
+datum
+Az adatsor beszúrásának dátuma (dátum)
+helyiseg (id, ingatlanid, hossz, szel, funkcio)
+id
+A helyiség azonosítója (szám), ez az elsődleges kulcs
+ingatlanid
+Az ingatlan azonosítója, amelyhez a helyiség tartozik (szám), idegen kulcs
+hossz
+A helyiség hosszúsága méterben (egy tizedes pontosságú szám)
+szel
+A helyiség szélessége méterben (egy tizedes pontosságú szám)
+funkcio
+A helyiség funkciója (szöveg), például nappali, háló, WC, konyha, terasz
+stb.
+
+Digitális kultúra
+E2411
+
+8 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+A következő feladatokat megoldó SQL-parancsokat rögzítse a feladatok végén zárójelben
+megadott nevű és .sql kiterjesztésű szöveges állományban! Például a 3. feladat megoldását
+a 3agyagos.sql nevű állományban. A javítás során csak ezeknek az állományoknak
+a tartalma lesz értékelve! Ügyeljen arra, hogy a lekérdezésekben pontosan a kívánt mezők
+szerepeljenek, duplán vagy feleslegesen mezőt ne jelenítsen meg! A lekérdezések
+eredményében megjelenő mezőneveknél az ékezet nélküli szöveg is megfelelő.
+1. A kozvetito.sql állomány tartalmazza az adatbázist és a táblákat létrehozó, valamint
+az adatokat a táblába beszúró SQL-parancsokat. Futtassa az SQL-szerveren a kozvetito.sql
+parancsfájlt!
+2. Készítsen lekérdezést, amely megadja, hogy az adatbázisban milyen közterületeken
+kínálnak lakást! Minden közterület neve csak egyszer, ábécérendben jelenjen meg!
+(2kozterulet)
+3. Lekérdezés segítségével adja meg, hogy az „Agyagos utca” ingatlanjait milyen áron
+hirdették meg! Jelenítse meg a házszámot és a meghirdetéskor megadott árat! (3agyagos)
+4. Készítsen lekérdezést, amely megadja, hogy a közvetítő cég az itt szereplő ingatlanok
+eladásából mennyi bevételre tett szert 2021-ben, ha az eladási ár 1,5 százalékát mint
+közvetítői díjat megkapta! (4dij)
+5. Lekérdezés segítségével adja meg, hogy a legdrágábban meghirdetett ingatlan ára
+hányszorosa volt a legolcsóbban meghirdetett ingatlan árának! Az árváltozásokat és
+az eladásokat ne vegye figyelembe! Adja meg az arányt kerekítés nélkül! (5arany)
+6. Lekérdezés segítségével határozza meg, hogy melyik az az ingatlan, amelyet a legrégebben
+hirdettek meg, de még nem adtak el, és amelynek a hirdetését sem módosították! Jelenítse
+meg a közterület nevét és a házszámot, valamint a hirdetés feladásának dátumát! Ha több
+ilyen ingatlan van, akkor elég az egyik adatait megjelenítenie. (6eladatlan)
+7. Lekérdezés segítségével adja meg azokat az ingatlanokat, amelyeket ugyanazon az áron
+adtak el, mint amilyenen meghirdették őket! Vegye figyelembe, hogy az ingatlan ára
+az eladáskor is változhat. Az ingatlan címét, azaz a közterület nevét és a házszámot,
+valamint az árát jelenítse meg! (7valtozatlan)
+8. Szeretnénk meghatározni azon ingatlanok címét, amelyekben sem külön „konyha”, sem
+külön „WC” nincs! Egészítse ki a kérdőjelek helyén a lekérdezést, és mentse el a teljes
+lekérdezést a megadott néven! (8nincskulon)
+SELECT kozterulet, hazszam
+FROM ingatlan
+WHERE id NOT IN (???)
+AND id NOT IN (???);
+
+A fenti lekérdezés szövege 8_forras.sql néven megtalálható.
+9. Az ingatlanosok az alapterület meghatározásánál a terasz területét csak 50%-ban számítják
+bele az alapterületbe. Készítsen lekérdezést, amelyik megadja a 180 négyzetméternél
+nagyobb alapterületű ingatlanok címét és területét! (9180)
+Segítségül az elágazás SQL-függvény:
+IF(feltétel, érték1, érték2) eredménye, ha a feltétel igaz, akkor érték1, különben érték2.
+35 pont
+
+Digitális kultúra
+E2411
+
+9 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+3. Beléptető rendszer
+Egy iskolában minden diáknak van egy tanulói kártyája, amelyet nemcsak a be- és kilépéskor
+használnak, hanem ez helyettesíti a könyvtári olvasójegyet és a menzán az ebédjegyet is.
+A rendszer adatbázisából statisztikai elemzés céljából lekérték az október 12-én rögzített
+adatokat. A bedat.txt állomány a tanuló kódját, az esemény időpontját, valamint az esemény
+kódját tartalmazza szóközzel elválasztva. Az esemény kódja a következő lehet:
+1
+belépés a főkapun át
+2
+kilépés a főkapun át
+3
+az ebéd kiadása a menzán
+4
+kölcsönzés a könyvtárban
+Például:
+…
+KYPG 14:04 1
+CIVX 14:04 2
+XHTR 14:04 2
+RYUI 14:04 3
+SBUG 14:04 4
+…
+A fenti példában a 14:04-kor a KYPG kódú tanuló belépett az iskolába, ugyanabban
+a percben a CIVX és az XHTR kódú tanuló éppen távozott, az RYUI kódú tanuló megkapta a
+menzán az ebédet, míg az SBUG kódú tanuló könyvet kölcsönzött a könyvtárban. A tanulók
+kódja négybetűs, az időpontok formátuma óó:pp.
+Az iskolában a tanulók 07:00-tól 19:00-ig tartózkodhatnak. A tanulók napközben a főkapun
+át többször be- vagy kiléphetnek, a könyvtárban többször kölcsönözhetnek, de a menzán
+legfeljebb egyszer ebédelhetnek. A feladatok megoldása során kihasználhatja, hogy az adatok
+időrendi sorrendben szerepelnek abban az esetben is, amikor azokat egy időponttal rögzítették.
+A fájlban az első esemény egy belépés, az utolsó egy kilépés a főkapun.
+Készítsen programot, amely az állomány adatait felhasználva az alábbi kérdésekre válaszol!
+A program forráskódját mentse belepteto néven! A program megírásakor a felhasználó által
+megadott adatok helyességét, érvényességét nem kell ellenőriznie, és feltételezheti, hogy
+a rendelkezésre álló adatok a leírtaknak megfelelnek.
+A képernyőre írást igénylő részfeladatok esetén – a mintához tartalmában hasonlóan – írja
+ki a képernyőre a feladat sorszámát (például: 2. feladat), és utaljon a kiírt tartalomra is!
+Ha a felhasználótól kér be adatot, jelenítse meg a képernyőn, hogy milyen értéket vár! Mindkét
+esetben az ékezetmentes kiírás is elfogadott.
+1. Olvassa be a bedat.txt állomány tartalmát, tárolja el az abban szereplő adatokat, és annak
+felhasználásával oldja meg a következő feladatokat! Feltételezheti, hogy az állomány
+legfeljebb 2000 adatsort tartalmaz.
+2. Határozza meg, hogy mikor lépett be az épületbe az első tanuló, és mikor távozott az utolsó!
+Az időpontokat a mintához hasonlóan jelenítse meg a képernyőn!
+3. Készítsen listát a kesok.txt nevű állományba, amely megadja, hogy mely tanulók léptek
+be a nagykapun 07:50 után, de legkésőbb 08:15-kor! A fájlban a belépések a mintának
+megfelelően külön sorban szerepeljenek, az időpontot egy szóköz válassza el a tanuló
+azonosítójától! Ha egy tanuló ezalatt többször is belépett, minden belépése jelenjen meg a
+fájlban!
+Digitális kultúra
+E2411
+
+10 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+4. Határozza meg, hány tanuló ebédelt aznap a menzán! Írassa ki az eredményt a képernyőre
+a mintának megfelelően!
+5. Szeretnénk tudni, hogy a könyvtári kölcsönzés vagy a menza a népszerűbb-e ezen a napon.
+1. Határozza meg, hány tanuló kölcsönzött aznap a könyvtárban! Ha egy tanuló
+többször is kölcsönzött, akkor azt csak egyszer vegye figyelembe! Írassa ki az
+eredményt a képernyőre a mintának megfelelően!
+2. A könyvtárosok szerint több tanuló kölcsönöz egy nap a könyvtárban, mint
+ahányan a menzán ebédelnek. Így volt-e ez ezen a napon is? A választ („Többen
+voltak, mint a menzán.” vagy „Nem voltak többen, mint a menzán.”) a mintának
+megfelelő formában írassa ki a képernyőre!
+6. A portás reggel elfelejtette a hátsó kaput bezárni, ezért a 10:45-kor kezdődő szünetben
+néhány tanuló kiment a hátsó kijáraton át a szemközti pékségbe tízórait venni. A portás csak
+10:50-kor zárta be a hátsó kaput, így 10:50 után a korábban a hátsó kapun át távozott
+tanulóknak a főbejáraton át kellett visszajönniük. Írassa ki a képernyőre egy-egy szóközzel
+elválasztva ezeknek a tanulóknak az azonosítóját! (A szünet 11:00-ig tartott, és
+feltételezheti, hogy azt megelőzően valamennyi érintett tanuló visszaért.) Vegye
+figyelembe, hogy a tanulók egy része aznap csak 11:00-ra jött iskolába, illetve szabályosan
+lépett ki!
+7. Kérje be egy tanuló azonosítóját, és írassa ki a minta szerinti formátumban, hogy mennyi
+idő telt el az iskolába való első belépése és utolsó távozása között! Feltételezheti, hogy
+19:00-ig minden tanuló elhagyta az iskolát. Ha aznap az adott azonosítójú tanuló nem járt
+az iskolában, akkor írassa ki az Ilyen azonosítójú tanuló aznap nem volt az
+iskolában. üzenetet!
+Példa a szöveges kimenetek kialakításához:
+2. feladat
+Az első tanuló 07:00-kor lépett be a főkapun.
+Az utolsó tanuló 18:54-kor lépett ki a főkapun.
+4. feladat
+A menzán aznap 82 tanuló ebédelt.
+5. feladat
+Aznap 76 tanuló kölcsönzött a könyvtárban.
+Nem voltak többen, mint a menzán.
+6. feladat
+Az érintett tanulók:
+EQBL VVDW HJVC ZXCK ZMFL CYEE MCBC IEAA HFWL
+7. feladat
+Egy tanuló azonosítója=ZOOM
+A tanuló érkezése és távozása között 7 óra 4 perc telt el.
+
+Példa a kesok.txt szöveges állomány tartalmára:
+07:51 QMQM
+07:51 WSVM
+07:51 WQTU
+07:52 DNHC
+07:53 ZPTZ
+…
+
+50 pont
+
+Digitális kultúra
+E2411
+
+11 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+pontszám
+maximális
+elért
+Dokumentumkészítés
+1A. Danuvia
+vagy
+35
+Táblázatkezelés
+1B. Lámpák
+választott feladat: ……………………
+Adatbázis-kezelés
+2. Ingatlanközvetítő iroda
+Algoritmizálás, adatmodellezés
+3. Beléptető rendszer
+A gyakorlati vizsgarész pontszáma
+
+dátum
+
+35
+50
+120
+
+javító tanár
+
+__________________________________________________________________________
+
+pontszáma egész
+számra kerekítve
+programba
+elért
+beírt
+Dokumentumkészítés
+vagy
+Táblázatkezelés
+Adatbázis-kezelés
+Algoritmizálás, adatmodellezés
+
+Digitális kultúra
+E2411
+
+dátum
+
+dátum
+
+javító tanár
+
+jegyző
+
+12 / 12
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+

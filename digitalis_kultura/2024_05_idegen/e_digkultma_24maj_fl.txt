@@ -1,0 +1,677 @@
+ÉRETTSÉGI VIZSGA • 2024. május 21.
+
+Azonosító
+jel:
+
+DIGITÁLIS KULTÚRA
+EMELT SZINTŰ
+GYAKORLATI VIZSGA
+2024. május 21. 8:00
+Időtartam: 240 perc
+Beadott dokumentumok
+Piszkozati pótlapok száma
+A választott feladat
+betűjelét írja ide
+a dolgozat befejezésekor!
+
+Értékelésre az alábbi
+állományokat adom be:
+
+A. Dokumentumkészítés
+B. Táblázatkezelés
+
+Adatbázis-kezelés
+
+A program forráskódját tartalmazó állomány nevét adja meg!
+
+Algoritmizálás és programozás
+
+OKTATÁSI HIVATAL
+Digitális kultúra
+E2211
+
+Nat2020
+
+Azonosító
+jel:
+
+Fontos tudnivalók
+Az 1.A Dokumentumkészítés és az 1.B Táblázatkezelés feladatok közül csak az egyik
+feladatot kell megoldania. A vizsga befejezésekor a feladatlap első oldalán írja be a
+megfelelő helyre a választott feladat betűjelét.
+Ha a javító tanár számára nem derül ki egyértelműen, hogy melyik feladatot választotta, akkor
+az 1.A jelű feladat kerül értékelésre.
+A vizsgán használható eszközök: a vizsgázó számára kijelölt számítógép, papír, toll, ceruza,
+vonalzó, lepecsételt jegyzetlap.
+A feladatlap belső oldalain és a jegyzetlapon készíthet jegyzeteket, ezeket a vizsga végén be
+kell adni, de tartalmukat nem fogják értékelni.
+A feladatokat tetszőleges sorrendben megoldhatja.
+Felhívjuk a figyelmet a gyakori (10 percenkénti) mentésre, és feltétlenül javasoljuk a mentést
+minden esetben, mielőtt egy másik feladatba kezd.
+Vizsgadolgozatát a feladatlapon található azonosítóval megegyező nevű vizsgakönyvtárba
+kell mentenie! Ellenőrizze, hogy a feladatlapon található kóddal megegyező nevű könyvtár
+elérhető-e, ha nem, még a vizsga elején jelezze a felügyelő tanárnak!
+Munkáit a vizsgakönyvtárába mentse, és a vizsga végén ellenőrizze, hogy minden megoldás
+a megadott könyvtárban van-e, mert csak ezek értékelésére van lehetőség! Ellenőrizze, hogy
+a beadandó állományok olvashatók-e, mert a nem megnyitható állományok értékelése nem
+lehetséges!
+Az adatbáziskezelés feladat csak abban az esetben értékelhető, ha a részfeladatok megoldását
+adó lekérdezések SQL-kódját tartalmazó szövegfájlokat a vizsgakönyvtárába mentette.
+A beadott program csak abban az esetben értékelhető, ha a vizsgázó létrehozta a használt
+programozási környezetnek megfelelő forrásállomány(oka)t a vizsgakönyvtárában, és az tartalmazza a részfeladatok megoldásához tartozó forráskódot.
+A forrásfájlokat a vizsgakönyvtárban találja.
+Javasoljuk, hogy a feladatokat először olvassa végig, utána egyenként oldja meg az egyes részfeladatokat!
+Amennyiben számítógépével műszaki probléma van, jelezze a felügyelő tanárnak! A jelzés
+ténye és a megállapított hiba jegyzőkönyvezésre kerül. A kiesett idővel a vizsga ideje hosszabb
+lesz. Amennyiben a hiba mégsem számítógépes eredetű, a javító tanár értékeléskor köteles
+figyelembe venni a jegyzőkönyv esetleírását. (A rendszergazda nem segítheti a vizsgázót a
+dolgozat elkészítésében.)
+A vizsga végén a feladatlap első oldalán Önnek fel kell tüntetnie a vizsgakönyvtárban és
+alkönyvtáraiban található, Ön által előállított és beadott fájlok nevét. Az algoritmizálás és
+programozás feladatnál a program forráskódját tartalmazó állomány nevét elég megadnia.
+A vizsga végeztével addig ne távozzon, amíg ezt meg nem tette, és a felügyelő tanárnak ezt be
+nem mutatta!
+
+Digitális kultúra
+E2211
+
+2 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+1A. Morzekód
+Samuel Morse 1838-ban mutatta be az elektromos távírókészülékét. A távközlésben
+a működéséhez bevezetett morzekódrendszert számos területen használták, a hajózásban és
+a távírásban. Készítsen weblapot a minta és a leírás alapján, amely bemutatja
+a morzekódrendszert!
+ Az elkészítendő állomány neve morze.html.
+ Az oldal részben formázott szövegét a szoveg.html állományban találja.
+ A feladat megoldásához szükséges képek: billentyu.png, hatter.png és
+SFB_Morse.jpg. A képek használata során ügyeljen arra, hogy a vizsgakönyvtár
+áthelyezése után is helyesen jelenjenek meg!
+A weblapot stílusokkal formázva készítse el! A stilus.css stíluslapban lévő előkészített
+stílusokat használhatja, de ezekben még további beállításokat, módosításokat kell tennie.
+A megoldás során formázáshoz csak a stíluslapban, vagy fejlécelemekben felsorolt vagy
+létrehozott stílusok használhatók, az inline (szövegközi) stílusok megadása nem.
+1. A morze.html oldalt készítse el! Ehhez a szoveg.html állományt használja fel, amely
+már részben formázva tartalmazza a szöveget! A böngésző címsorában a „Morzekód”
+szöveg jelenjen meg!
+2. A weboldal fejrészében helyezzen el hivatkozást a stilus.css stíluslapra, vagy annak
+tartalmát a html lap fejlécbe beágyazott stílusként használja fel! Ügyeljen arra, hogy inline
+stílusokat nem használhat!
+3. A megjelenítendő tartalom egy része megjegyzésben van a weblap kódjában.
+A megjegyzést szüntesse meg a tartalom megjelenítéséhez!
+4. Állítsa be az oldal általános tulajdonságait!
+a. A weblap háttere a hatter.png kép legyen!
+b. A teljes szöveg olyan betűtípusú, amely a talp nélküli (sans-serif) betűcsaládba
+tartozik, a betűméret az alapértelmezett 110%-a és a betűszín sötétszürke
+(#444444 kódú) szín legyen, ahol a feladat mást nem kér!
+c. A címeken kívüli bekezdések legyenek sorkizárt igazításúak, ha a feladat nem
+kér mást!
+d. Az oldalon a linkek színe minden állapotban fekete legyen!
+5. Az oldal többi részének váza, a mintának megfelelően egy fehér téglalapként jelenjen meg!
+Ezt a tartalom jelölő beállításával és alkalmazásával hozza létre!
+A téglalap
+
+
+
+
+
+
+háttere fehér,
+1100 képpont széles,
+vízszintesen középre igazított,
+szegély nélküli,
+minden szöveges tartalom a bal és a jobb szélétől 10 képponttal beljebb jelenjen
+meg!
+6. Alakítsa ki a címet és az alcímeket a minta szerint! A weboldal címe „Morzekód” egyes
+szintű címsor, az alcímek „Samuel Morse életrajza”, „A kódok eredete” és „A morzejelek”
+kettes szintű címsorok legyenek!
+A feladat folytatása a következő oldalon található.
+Digitális kultúra
+E2211
+
+3 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+7. Egészítse ki a formázást, hogy az egyes és kettes szintű címsorok vörös (#FC4842 kódú)
+színnel jelenjenek meg!
+8. A kettes szintű címsorok megjelenésének beállításai:
+ dőlt betűstílusúak,
+ hátterük a szürke (#CCCCCC kódú) szín, és
+ mind a négy belső margó legyen 20 képpontos!
+9. Készítse el az első alcím előtti navigációs sort, amelynek szövegét gépelje be a minta
+szerint! Készítsen egyedi azonosítókat a második szintű címsorokhoz! Ezekre hozza létre
+a hivatkozásokat a navigációs sor megfelelő részeiről!
+10. A „Samuel Morse éltrajza” alcímet követő bekezdés mellé helyezze el
+az SFB_Morse.jpg képet és állítsa be, hogy helyettesítő vagy alternatív szövege
+„Samuel Morse” legyen! A stíluslapban lévő bal osztályjelölő alkalmazásával állítsa be
+a képre az alábbiakat:
+ a minta szerint, a szövegtől balra jelenjen meg,
+ szegély nélküli,
+ a kép a szövegtől jobb oldalon 5 képpontos, a többi irányban 0 képpontos távolságra
+legyen!
+11. A „A morzejelek” alcím elé helyezze el a billentyu.png képet, és állítsa be, hogy
+a helyettesítő vagy alternatív szövege „Távíró billentyűje” legyen! A stíluslapban lévő
+kozep osztályjelölő alkalmazásával állítsa be a képre az alábbiakat:
+ középre igazítottan,
+ szegély nélkül jelenjen meg!
+12. Egészítse ki és formázza meg a dokumentum végén lévő morzekódtáblát tartalmazó
+táblázatot az alábbiak szerint:
+a. A táblázat kódját egészítse ki a táblázat címével, amelynek szövege „Betűk
+morzekódja” legyen a minta szerint!
+b. A táblázat középre igazított és 1 képpont vastag szegélyű, fekete vonal legyen
+a minta szerint!
+c. A cellák legyenek egyforma szélesek a minta szerint, bennük a szöveg
+vízszintesen középre igazított, 120%-os betűméretű és félkövér stílusú legyen!
+d. A táblázat első sorában, fejlécében a háttér szürke (#CCCCCC kódú), és a betűk
+színe vörös (#FC4842 kódú) legyen! A többi cellában a betűk színe
+alapértelmezett maradjon!
+e. A fejléc cellájában az alsó és felső margó 10 képpont legyen!
+
+35 pont
+
+Digitális kultúra
+E2211
+
+4 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+Minta:
+
+morze.html
+
+Digitális kultúra
+E2211
+
+5 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+1B. Ballagás
+Az iskolai ballagás előkészítésében a 11-es osztályok segítenek. A tanulóknak egy elektronikus
+űrlapon kellett válaszolniuk, hogy a hét feladatban mennyire szeretnének részt venni.
+A válaszaikat egy hétfokú skálán kellett jelölni: az 1-es jelentette, ha leginkább azt a feladatot
+szeretnék elvégezni, a 7-es, ha azt a legkevésbé. Minden feladatnál jelölniük kellett
+a szándékukat, és mind a hét számot csak egyszer használhatták. Ezenkívül felsorolták azoknak
+a feladatoknak a nevét, amelyeknek felelőseként is szívesen dolgoznának.
+Feladata az űrlapok eredményeinek feldolgozása táblázatkezelő program felhasználásával.
+A megoldás során vegye figyelembe a következőket!
+ Amennyiben lehetséges, a megoldás során képletet, függvényt, hivatkozást használjon.
+ A részfeladatok között van olyan, amely egy korábbi kérdés eredményét használja fel.
+Ha a korábbi részfeladatot nem sikerült teljesen megoldania, használja a megoldását
+úgy, ahogy van, vagy írjon be egy valószínűnek tűnő eredményt, és azzal dolgozzon
+tovább! Így ugyanis pontokat kaphat erre a részfeladatra is.
+ Segédszámításokat az R oszloptól jobbra vagy a 78. sortól lefelé végezhet.
+1. A valaszok.txt pontosvesszőkkel tagolt, UTF-8 kódolású szöveges fájlban találhatók
+az űrlap kitöltése során összegyűjtött tanulói válaszok.
+2. A következő két feladatot táblázatkezelővel vagy más alkalmazással is megoldhatja.
+3. Az állomány első sora felesleges szövegeket is tartalmaz, ezért törölje az itt lévő szöveget!
+Az első sorba a „Név”, „Osztályterem”, „Bejárat”, „Folyosók”, „Osztályok”, „Díszterem”,
+„Rendezés”, „Takarítás”, „Felelősként” szavak kerüljenek pontosvesszőkkel elválasztva!
+Az itt szereplő szavak a feladatvégzés helyére vagy a feladatkörre utalnak.
+4. Az állomány a kitöltők iskolai elektronikus címét tartalmazza. Az e-mail cím név része
+minden esetben megegyezik a tanulók ékezet nélküli nevével. Állítsa vissza a tanulók –
+ékezet nélküli – nevét a következőképpen:
+a. törölje az @iskola.hu szövegrészt;
+b. cserélje a címek név részében a pontot szóközre;
+c. alakítsa át a vezeték- és utónevek kezdőbetűit vagy a teljes nevet nagybetűsre!
+Ha nem tudja az átalakításokat elvégezni, akkor dolgozzon tovább az adatokkal változtatás
+nélkül, mert ezek nem befolyásolják a további feladatok megoldását.
+5. A módosított valaszok.txt állományt importálja a táblázatkezelő programba, vagy az
+adatok importálása helyett a tagolásra használt pontosvesszők tabulátorra cserélése után az
+adatokat másolja be a táblázatkezelő programba egy új munkalapra! Az adatokat tartalmazó
+munkalap neve Válaszok legyen! Munkáját mentse ballagas néven a táblázatkezelő
+program alapértelmezett formátumában!
+6. Az A73 cellába írja be az „Átlag” szöveget. A B73:H73 cellákban számítsa ki egy,
+másolható képlet segítségével az adott feladat számainak átlagát! Az eredményeket egy
+tizedesjegy pontossággal jelenítse meg!
+7. Az A74:A76 tartomány celláiba írja be rendre az „1”, „2”, „3” számot! A minta szerint
+állítsa be a számformátumokat!
+8. A B74:H76 tartomány celláiba másolható képlet segítségével határozza meg, hogy az adott
+feladatra hányan adták az 1, 2 vagy 3 értéket válaszként!
+
+Digitális kultúra
+E2211
+
+6 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+9. A következő három feladatban az I oszlopban megtalálható szövegek alapján tegye
+szemléletessé a tanulók felelősként való jelentkezését!
+10. A J1:P1 tartomány celláiban jelenítse meg a B1:H1 tartomány celláiban található helyeket
+és feladatokat!
+11. A J2:P71 tartomány celláiban meg kell jelölni, hogy az adott sorban lévő tanuló
+jelentkezett-e az adott oszlopban található feladatra felelősként. A J2:P71 tartomány
+celláiban másolható képlettel határozzon meg egy számot vagy kezdőpozíciót, ha az adott
+sorban lévő tanuló jelentkezett az adott oszlopban található feladatra felelősként, különben
+a cella üresen jelenjen meg! A megoldáshoz felhasználhatja akár a SZÖVEG.KERES és
+a HAHIBA függvényeket is.
+12. A J2:P71 tartomány minden cellájában állítson be feltételes formázást, amely a cella
+szövegszínét és hátterét egyaránt zöldre állítja, ha az adott sorban lévő tanuló jelentkezett
+felelősként az adott oszlopban található feladatra!
+13. Formázza a munkalapot a mintának megfelelően úgy, hogy minden cella teljes szövege
+olvasható legyen!
+14. Állítsa a B:H és J:P tartományok oszlopait azonos szélességűre, és a B:H tartomány
+oszlopainak tartalmát igazítsa vízszintesen középre!
+15. Az A1:P1 tartományban a minta szerint állítsa be a cellák igazítását, magasságát, valamint
+az írás irányát!
+16. Rögzítse a munkalap első sorát és oszlopát, hogy a fejléc, valamint a tanulók nevei
+a munkalap görgetése esetén is mindig láthatóak maradjanak!
+17. Az A73:A76 tartományt formázza a mintának megfelelően!
+18. Az A1:P71 tartomány celláira állítson be vékony szegélyt!
+19. Másolja le a Válaszok munkalapot Csoportok néven, majd a munkalapon az alábbiak szerint
+válassza ki a feladathoz a tanulókat!
+20. Rendezze a Csoportok munkalapon a tanulók adatait a „Folyosók” feladatra adott, 1-től 7-ig
+terjedő válaszaik szerint növekvő sorrendbe!
+21. Állítson be halványzöld háttérszínt az első tíz tanuló nevét tartalmazó cellában – ők lesznek
+a folyosódíszítést végző csoport tagjai! Válasszon egy tanulót, akik felelősként is vállalta
+a feladatot, és formázza félkövér stílussal a nevét!
+22. Rendezze a többi – nem halványzöld színnel jelölt – tanuló adatait a „Díszterem” feladatra
+adott, 1-től 7-ig terjedő válaszaik szerint növekvő sorrendbe!
+23. Állítson be halványsárga háttérszínt az első tíz – folyosódíszítésre korábban nem
+kiválasztott – tanuló nevét tartalmazó cellában! Válasszon egy tanulót, aki felelősként is
+vállalta a díszterem díszítése feladatot, és állítsa félkövérre a nevét!
+35 pont
+
+Digitális kultúra
+E2211
+
+7 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+A feladathoz tartozó minta a 9. oldalon található.
+
+Digitális kultúra
+E2211
+
+8 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+Minta a Válaszok munkalapról:
+
+Minta a Csoportok munkalapról:
+
+Digitális kultúra
+E2211
+
+9 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+2. Magyar királyok
+Történelmünkben a királyság intézménye közel ezer évig tartott. A magyar királyok adatai
+állnak rendelkezésre egy adatbázisban és a következő feladatokban ezzel kell dolgoznia.
+Az adatbázis a következő táblákat tartalmazza:
+
+Táblák:
+uralkodo (azon, nev, ragnev, szul, hal, uhaz_az)
+azon
+nev
+ragnev
+szul
+hal
+uhaz_az
+
+A király azonosítója (szám), ez az elsődleges kulcs
+Az uralkodó királyi neve (szöveg)
+Az uralkodó ragadványneve, nem hivatalos neve (szöveg), üres, ha nem
+volt
+Születési éve (szám)
+Halálozási éve (szám)
+A király uralkodóházának azonosítója (szám), idegen kulcs
+
+hivatal (azon, uralkodo_az, mettol, meddig, koronazas)
+azon
+uralkodo_az
+mettol
+meddig
+koronazas
+
+A királyi hivatali szerep azonosítója (szám), ez az elsődleges kulcs
+Az uralkodó személyének azonosítója (szám), idegen kulcs
+Az uralkodás kezdő éve (szám)
+Az uralkodás befejező éve (szám)
+Az uralkodó koronázásának éve (szám), üres, ha nem koronázták meg
+
+uralkodohaz (azon, nev)
+azon
+nev
+
+A uralkodóház azonosítója (szám), ez az elsődleges kulcs
+Az uralkodóház neve (szöveg)
+
+A következő feladatokat megoldó SQL-parancsokat rögzítse a feladatok végén zárójelben
+megadott nevű és .sql kiterjesztésű szöveges állományokba! Például a 2. feladat megoldását
+a 2nevek.sql nevű állományban. A javítás során csak ezeknek az állományoknak a tartalmát
+értékelik! Ügyeljen arra, hogy a lekérdezésekben pontosan a kívánt mezők szerepeljenek,
+felesleges mezőt ne jelenítsen meg!
+1. A kiralyokforras.sql állomány tartalmazza az adatbázist és a táblákat létrehozó,
+valamint az adatokat a táblába beszúró SQL-parancsokat! Futtassa az SQL-szerveren
+a kiralyokforras.sql parancsfájlt! (A „Nincs kiválasztott adatbázis” üzenet nem
+befolyásolja az adatimportálás sikerességét.)
+2. Lekérdezés segítségével írassa ki a ragadványnévvel rendelkező királyok nevét és
+ragadványnevét a születési évük sorrendjében! (2nevek)
+3. Készítsen lekérdezést, amely felsorolja az Árpád-ház tagjainak nevét, uralkodásuk kezdő és
+befejező évét az uralkodásuk sorrendjében! Ha valaki többször uralkodott, akkor a listában
+többször jelenjen meg! (3arpad)
+Digitális kultúra
+E2211
+
+10 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+4. Lekérdezés segítségével sorolja fel azoknak a királyoknak a nevét, akik már a koronázásuk
+éve előtt elfoglalták a hivatalukat! (4koran)
+5. Lekérdezés segítségével határozza meg, hogy hány király volt Magyarországon 1601-től
+1700-ig! Vegye figyelembe, hogy a királyok uralkodásának csak egy része is eshetett
+a megjelölt időszakba! Kihasználhatja, hogy ebben az időszakban minden király csak
+egyszer uralkodott. (5XVII)
+6. Készítsen lekérdezést, amely meghatározza, hogy ki uralkodott a leghosszabb ideig
+egyfolytában és hány évet? Az uralkodás hosszának számítása például: I. István 1000-től
+1038-ig uralkodott, tehát 39 évig volt magyar király. (6hosszu)
+7. Lekérdezés segítségével adja meg azon királyok nevét, akik 15 évesnél fiatalabban kezdtek
+uralkodni, és hogy ekkor hány évesek voltak! Az adatokat az életkor szerint növekvő
+sorrendben jelenítse meg! (7fiatal)
+8. A történelmi események során előfordult, hogy az uralkodó a királyi hivatalt többször
+foglalta el. Készítsen lekérdezést, amely meghatározza azoknak a királyoknak a nevét és
+uralkodásuk összes idejét, akik többször foglalták el a hivatalt! (8tobbszor)
+9. Készítsen lekérdezést, amely meghatározza, hogy melyik királyi ház hány uralkodót adott
+Magyarországnak! A lista a személyek száma szerint csökkenő sorrendű legyen! Ügyeljen,
+hogy a többször uralkodókat csak egyszer vegye figyelembe a számlálásnál! (9hazak)
+35 pont
+
+Digitális kultúra
+E2211
+
+11 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+3. Kráterek
+Egy még felderítetlen égitestet először közelített meg egy földi szonda. A szondáról küldött
+képeken látható, hogy a légkör nélküli égitest felszínét meteorbecsapódások által létrehozott
+kráterek borítják. A szonda feltérképezte a felszín egy részét, és a kráterek elhelyezkedéséről is
+adatokat küldött.
+A szonda minden krátert egy körként azonosított, és megadta a kör (azaz kráter)
+középpontjának helyét és a kör (azaz a kráter) sugarát. A szonda minden kráternek nevet is
+adott úgy, hogy véletlenszerűen választott egy listából, amelyben csillagászok nevei
+szerepeltek. Minden kráternek egyedi nevet adott, tehát nincs két azonos nevű kráter. Az adatok
+kétféle formátumban állnak rendelkezésre. A felszin_tpont.txt szöveges állományban
+a valós számok tizedes ponttal, a felszin_tvesszo.txt állományban pedig
+tizedesvesszővel szerepelnek. A feladat megoldásakor a választott programozási környezetnek
+megfelelő fájllal dolgozzon!
+A fájl első néhány sora például a következő:
+5.23
+3.67
+1.15
+3.45
+
+2.47
+2.19
+7.25
+2.78
+
+3.86
+1.13
+2.89
+0.35
+
+George Ogden Abell
+Robert Henry Dicke
+Abu Bakr ibn Tufajl
+Stephen Hawking
+
+Egy soron belül az első három valós szám a kráter
+középpontjának X és Y koordinátája, valamint a kráter
+sugara. Ezt követi egy csillagász neve, vagyis a kráter
+elnevezése. Az adatokat egy soron belül egy-egy
+tabulátor választja el egymástól.
+Az ábra koordináta-rendszerben mutatja az előbbi
+négy kráter elhelyezkedését az égitest felszínén.
+Készítsen programot, amely az egyik megadott
+állományt felhasználva az alábbi kérdésekre válaszol! A program forráskódját mentse
+kraterek néven! A program megírásakor a bemeneti állományban található, vagy
+a felhasználó által megadott adatok helyességét, érvényességét nem kell ellenőriznie,
+feltételezheti, hogy azok a leírtaknak megfelelnek.
+A képernyőre írást igénylő részfeladatok eredményének megjelenítése előtt írja a képernyőre
+a feladat sorszámát (például: 2. feladat)! Ha a felhasználótól kér be adatot, jelenítse meg
+a képernyőn, hogy milyen értéket vár! Az ékezetmentes kiírás is elfogadott. A valós számok
+kiírásakor tizedes pont és tizedesvessző is használható.
+1. Olvassa be és tárolja el a bemeneti állomány tartalmát! Az állományban legfeljebb 100
+kráter adatai szerepelnek.
+2. Számolja meg, hogy hány kráter található a bemeneti állományban, és írja a képernyőre
+a kráterek számát!
+3. Kérje be a felhasználótól egy kráter pontos nevét, majd írja ki a kráter adatait! A kiírás egy
+teljes mondat legyen, például: „A(z) Stephen Hawking középpontja X=3.45
+Y=2.78 sugara R=0.35.”. Ha a név nem szerepel a kráterek nevei között, akkor írja ki:
+„Nincs ilyen nevű kráter.”.
+
+Digitális kultúra
+E2211
+
+12 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+4. Vizsgálja meg a szonda által kapott adatokat, és adja meg a legnagyobb sugarú kráter
+sugarát és névadójának nevét! Amennyiben több legnagyobb kráter van, úgy elég az egyiket
+megadnia.
+5. A következő feladatokban szüksége lesz arra, hogy kiszámítsa két kráter középpontjának
+távolságát. Készítsen függvényt, amely a Pitagorasz-tétel felhasználásával kiszámítja két,
+koordinátákkal adott pont távolságát! A függvény bemenete a két pont, (x1, y1) és (x2, y2)
+koordinátái (valós számok), visszaadott értéke a távolságuk (valós szám). A függvény
+leírása a következő:
+Függvény tavolsag(x1, y1, x2, y2 : Valós ) : Valós
+tavolsag := Négyzetgyök((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1))
+Függvény vége
+
+6. Két kráter nem fedi át egymást, nincs közös részük, ha középpontjaik távolsága nagyobb,
+mint a két kráter sugarának összege. Kérje be egy kráter nevét, és adja meg azoknak
+a krátereknek a nevét, amelyekkel a bekért kráternek nincs közös része! A kiírásban
+szereplő kráterek nevei között egy vessző és egy szóköz legyen az elválasztás! Ha nincs
+ilyen kráter, akkor nem kell megjelenítenie semmit.
+7. Egy kráter tartalmaz egy másik krátert, ha a kisebb kráter teljes egészében a nagy kráterben
+található. Ez körök esetében azt jelenti, hogy a két kör középpontjának távolsága kisebb,
+mint a nagyobb kör sugarának és a kisebb kör sugarának különbsége. Vizsgálja meg
+a krátereket, és írja ki azoknak a krátereknek a nevét, amelyek esetében a nagyobb kráter
+tartalmazza a kisebb krátert! Minden ilyen tartalmazást csak egyszer jelenítsen meg úgy,
+hogy megadja, hogy melyik kráter tartalmazza a másikat!
+8. A kráterek adatai alapján számítsa ki, hogy mekkora területűek az egyes kráterek, és
+készítsen egy terulet.txt szöveges állományt, amely tartalmazza a kráterek nevét és
+területét! A kör területe 𝑇 𝑟 𝜋 ahol r a kör sugara, 𝜋 értéke két tizedesjegyre kerekítve
+3.14. Az állomány minden egyes sorában egy kráter adatai szerepeljenek: először a kráter
+területe két tizedesjegyre kerekítve, majd egy tabulátor karakter, majd a kráter neve!
+Minta a szöveges kimenetek kialakításához:
+2. feladat
+A kráterek száma: 20
+3. feladat
+Kérem egy kráter nevét: Thomas Gold
+A(z) Thomas Gold középpontja X=14.58 Y=31.29 sugara R=2.45.
+4. feladat
+A legnagyobb kráter neve és sugara: Wilhelm Anderson 4.45
+6. feladat
+Kérem egy kráter nevét: Jacques Cassini
+Nincs közös része: George Ogden Abell, Robert Henry Dicke, Abu Bakr ibn
+Tufajl, Stephen Hawking, Charles Messier, James Challis, William
+Herschel, Ralph Fowler, Eric Walter Elst, Nicole Oresme, Thomas Gold,
+Joseph Plateau, Camille Flammarion, Maarten Schmidt, Edmond Halley,
+Gerard Kuiper, Henri Debehogne.
+7. feladat
+A(z) George Ogden Abell kráter tartalmazza a(z) Robert Henry Dicke
+krátert.
+A(z) George Ogden Abell kráter tartalmazza a(z) Stephen Hawking krátert.
+A(z) Robert Henry Dicke kráter tartalmazza a(z) Stephen Hawking krátert.
+A(z) Wilhelm Anderson kráter tartalmazza a(z) Jacques Cassini krátert.
+A(z) Joseph Plateau kráter tartalmazza a(z) Maarten Schmidt krátert.
+
+A szöveges állomány kialakításához szükséges minta a következő oldalon található:
+Digitális kultúra
+E2211
+
+13 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+Minta a terulet.txt szöveges állomány kialakításához:
+46.78
+4.01
+26.23
+0.38
+...
+
+George Ogden Abell
+Robert Henry Dicke
+Abu Bakr ibn Tufajl
+Stephen Hawking
+
+50 pont
+
+Forrás:
+A feladatlap bázisszövegei az eredeti forrásszövegek módosításával (rövidítésével, nyelvtani egyszerűsítésével),
+adatainak felhasználásával, de az eredeti szövegek, adatok integritásának megtartása mellett jöttek létre. Az eredeti
+szövegek, adatok, képek forrása:
+
+1A. Morzekód
+http://www.samuelmorse.net/images/samuelmorse/Samuel-F-B-Morse.jpg Utolsó letöltés: 2021. október 12.
+https://wmn.hu/juzer/54290-ta-ti-ta-ti-ti-ti-ta-ta--minden-amit-a-morzekodrol-tudni-szeretnel Utolsó letöltés: 2021. október 12.
+http://www.mimicsoda.hu/cikk.php?id=714 Utolsó letöltés: 2021. október 12.
+https://www.clipartmax.com/middle/m2i8d3A0d3A0d3b1_drawing-of-a-telegraph/ Utolsó letöltés: 2021. október 12.
+
+2. Magyar királyok
+https://hu.wikipedia.org/wiki/Magyarország_uralkodóinak_listája Utolsó letöltés: 2021.11.17.
+
+3. Kráterek:
+https://hu.wikipedia.org/wiki/Csillagászok_listája Utolsó letöltés: 2021. december 1.
+
+Digitális kultúra
+E2211
+
+14 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+Digitális kultúra
+E2211
+
+15 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+Azonosító
+jel:
+
+pontszám
+maximális
+elért
+Dokumentumkészítés
+1A. Morzekód
+vagy
+35
+
+Táblázatkezelés
+1B. Ballagás
+választott feladat: ……………………
+Adatbázis-kezelés
+2. Magyar királyok
+Algoritmizálás, adatmodellezés
+3. Kráterek
+A gyakorlati vizsgarész pontszáma
+
+dátum
+
+35
+50
+120
+
+javító tanár
+
+__________________________________________________________________________
+
+pontszáma egész
+számra kerekítve
+programba
+elért
+beírt
+Dokumentumkészítés
+vagy
+Táblázatkezelés
+Adatbázis-kezelés
+Algoritmizálás, adatmodellezés
+
+Digitális kultúra
+E2211
+
+dátum
+
+dátum
+
+javító tanár
+
+jegyző
+
+16 / 16
+
+emelt szintű gyakorlati vizsga
+2024. május 21.
+
+

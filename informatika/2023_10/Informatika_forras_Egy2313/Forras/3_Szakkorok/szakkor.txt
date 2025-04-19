@@ -1,0 +1,41 @@
+azon	mk	nev	tanar
+1	2. idegen nyelv	Franciaszakkör	Marosi Norbert
+2	2. idegen nyelv	Kezdő latin	Jeney Flóra
+3	2. idegen nyelv	Latinérettségi-előkészítő	Jeney Flóra
+4	2. idegen nyelv	Olasz beszédgyakorlat	Veleméri Melinda
+5	2. idegen nyelv	Spanyol kultúrföldrajz	Bor Nóra
+6	Biológia - Kémia	Biológia 12. fakt kiegészítő	Simon Miklós
+7	Biológia - Kémia	Biológia OKTV-felkészítő	Simon Miklós
+8	Biológia - Kémia	Ötösöm lesz biokémiából	Keszei István
+9	Biológia - Kémia	Kémia kísérletezős, tehetséggondozó	Kovács Zita
+10	Biológia - Kémia	OKTV-re/emelt érettségire felkészítő	Hajdú Viktória
+11	Fizika	Fizikafeladat-megoldó	Bene Balázs
+12	Fizika	Kísérletezős, versenyfelkészítő szakkör	Juhász Erzsébet
+13	Földrajz - Társadalomismeret	Földrajzérettségi-előkészítő	Koma László
+14	Földrajz - Társadalomismeret	Földrajz OKTV-felkészítő	Szemesi József
+15	Földrajz - Társadalomismeret	Geopolitika	Pogács Balázs
+16	Földrajz - Társadalomismeret	Lóczy Lajos versenyre felkészítő szakkör	Rónai Csongor
+17	Informatika - Digitális kultúra	Érettségire készítő konzultáció - középszint	Nagy Ervin
+18	Informatika - Digitális kultúra	Kezdő programozás	Kovács Tamás
+19	Informatika - Digitális kultúra	Kreatív ROBOTIKA	Ménesi József
+20	Informatika - Digitális kultúra	Programozás - haladó	Kovács Tamás
+21	Magyar nyelv és irodalom	Filozófia	Lakatos Péter
+22	Magyar nyelv és irodalom	Színjátszó	Sásdi Antal
+23	Matematika	8. osztályos érdeklődő szakkör	Bor Attila
+24	Matematika	Arany Dániel matematikaszakkör	Fekete Péter
+25	Matematika	Matematika a 12. évfolyamnak	Bor Attila
+26	Matematika	Matematikafeladat-megoldó szakkör	Deák Zsolt
+27	Matematika	Matematika szakkör	Székely Áron
+28	Matematika	Matematika szakkör 9.-eseknek	Bor Attila
+29	Matematika	Matematikaverseny-előkészítő	Balogh Bertalan
+30	Matematika	Matematikaversenyfeladat-megoldó szakkör	Zsurzs Veronika
+31	Matematika	Matematika VFő és TGó szakkör	Helyei Adrienn
+32	Művészetek	Énekkar	Dobos Antal
+33	Művészetek	Rajzszakkör	Keszi Péter
+34	Német nyelv	Felzárkóztató szakkör német nyelvből	Nagy Viktória
+35	Német nyelv	Német nyelv OKTV-felkészítő	Nagy Viktória
+36	Német nyelv	Német nyelvű iskolaújság szerkesztése	Téli Judit
+37	Testnevelés	Lány kosárlabda	Tóth Fülöp
+38	Történelem	Emelt szintű érettségire előkészítő szakkör	Hegedűs András
+39	Történelem	Kosáry történelemversenyre felkészítés	Vete Zoltán
+40	Történelem	Versenyfelkészítő szakkör	Kis Attila

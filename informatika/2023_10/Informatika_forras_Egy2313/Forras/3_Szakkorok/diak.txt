@@ -1,0 +1,308 @@
+azon	nev	evfolyam	betujel
+1	Kis Lilla Laura	11	D
+2	Hídvégi Antal	11	B
+3	Illés Anna Noémi	11	F
+4	Aszódi Anna	10	B
+5	Aszódi Kitti	7	A
+6	Adonyi Iringó	10	A
+7	Kossa Barnabás	11	B
+8	Füstös Zsófi	10	B
+9	Tatay Eszter Anna	11	E
+10	Keleti Viktória Lilla	9	N
+11	Dede Anna Róza	10	B
+12	Pintér Veronika	9	E
+13	Borbély Antal	9	B
+14	Sárdi Emma Krisztina	10	E
+15	Moldvay Eszter	9	N
+16	Beke Fanni	11	E
+17	Bódy Judit	10	E
+18	Olasz Réka	11	D
+19	Kocsiss Ákos	11	D
+20	Ujvári Botond Rudolf	11	F
+21	Baross Angéla	11	D
+22	Tóth Gábor Ábris	11	B
+23	Tőke Csaba	12	C
+24	Tétényi Orsolya Anna	11	F
+25	Kovács Éva Réka	12	A
+26	Vete Roland István	12	D
+27	Kis Kinga Anna	12	A
+28	Veti Milán	12	A
+29	Piski Petra	11	F
+30	Csűrös Panna	12	A
+31	Bezerédi Heléna	11	F
+32	Kis Csenge	8	A
+33	Serédi Dorka	8	A
+34	Nemesi Máté	8	A
+35	Juhász Jónás	8	A
+36	Tury Anna Klára	8	A
+37	Piros Anikó	8	A
+38	Márkus Andrea	8	A
+39	Nagy Mátyás	8	A
+40	Kiss Orsolya	8	B
+41	Kiss Éva	12	D
+42	Mátyus Bertalan	12	D
+43	Szabadi Anna Luca	12	B
+44	Tóth Zsófia	12	D
+45	Rebak Lili	12	B
+46	Márton Bence	12	B
+47	Hajdú Viola Erzsébet	12	C
+48	Bene Borbála	12	B
+49	Vete Gréta	12	D
+50	Széki Dorka	12	D
+51	Vete Kinga	12	B
+52	Balogh Eszter	12	B
+53	Dede Áron Andrea	12	B
+54	Dana Éva	12	D
+55	Ada Zsófia Zsuzsanna	12	D
+56	Tóti Anna Vilma	12	D
+57	Nagy Réka Lilla	12	B
+58	Papp Bálint Kende	12	B
+59	Őry Boglárka	12	D
+60	Tamás Dániel	9	D
+61	Kovács Bálint	9	A
+62	Szén Lili	9	D
+63	Molnár Máté Bendegúz	9	D
+64	Cseh Natália	10	D
+65	Nagy Dániel Gábor	9	D
+66	Veréb Nóra Emília	9	D
+67	Derék Szilvia Boglárka	10	C
+68	Vörös Rebeka Anna	9	D
+69	Danka Balázs	9	D
+70	Papp Noémi Orsolya	9	D
+71	Gara Artúr Géza	9	A
+72	Korándi Laura	8	B
+73	Lévai András László	8	A
+74	Ábel Félix	8	B
+75	Lengyel Szabolcs	8	A
+76	Budai Ádám András	8	A
+77	Halász Tamás András	8	A
+78	Nagy Zsombor Zoltán	8	B
+79	Lampé Szabolcs Ákos	8	A
+80	Molnár Zsombor	8	A
+81	Máté Dániel Erik	8	B
+82	Pap Marcell	8	B
+83	Fecske László Márton	8	A
+84	Simon András Márk	8	B
+85	Györgyi Péter	8	A
+86	Surányi Gergő Márton	8	B
+87	Bíró Dávid	8	B
+88	Sás Bernát	8	A
+89	Sas Lili Anna	11	E
+90	Garami Panna	12	A
+91	Újhelyi Zita	12	A
+92	Bende Soma Tamás	11	E
+93	Kolonics András	12	A
+94	Péti Ilona Sára	11	C
+95	Csiba Krisztina Terézia	12	E
+96	Vete Laura Jelica	11	F
+97	Pintér Zsófia	12	E
+98	Gábos Flóra Anna	11	D
+99	Szabó Bernadett Viktória	12	E
+100	Némedi Dóra	12	E
+101	Takács András	11	F
+102	Pogány Lilla	12	E
+103	Ballai Emma	11	E
+104	Babos Éva	12	E
+105	Schmitt Petra	11	E
+106	Vivien Noémi	11	E
+107	Bornemissza Réka	11	E
+108	Prókai Áron István	11	E
+109	Széki Levente	11	E
+110	Katona Dániel	12	C
+111	Szabó Andrea	11	B
+112	Szabó István	11	A
+113	Vete Pál Patrik	12	C
+114	Halasi Tamás	12	C
+115	Goda Ádám Gyula	12	C
+116	Vécsey Roland	11	A
+117	Teréki Barnabás	12	C
+118	Olasz Marcell	11	B
+119	Zora Doma Bence	11	A
+120	Bedő Botond	12	A
+121	Salántay Adrián Tamás	12	E
+122	Ember Attila József	11	B
+123	Kalla Gábor	11	D
+124	Perényi Anita Csenge	11	C
+125	Csaba Márton	10	B
+126	Réti Mihály	11	D
+127	Hegedűs Andrea	9	B
+128	Molnár Ivett Luca	9	N
+129	Szabó Eszter	9	N
+130	Soós Andrea	9	C
+131	Szakács Márton László	9	D
+132	Olasz Viktória	9	A
+133	Szele Attila Vilmos	9	D
+134	Helga Adél	9	B
+135	Pere Attila Csaba	9	D
+136	Szűcs Adél Judit	9	D
+137	Dél Áron Balázs	9	D
+138	Kabai Enikő	9	D
+139	Akartó Domonkos	9	B
+140	Deme Melinda	11	E
+141	Szász Anna	11	B
+142	Molnár András	7	B
+143	Fonay Emma	9	C
+144	Sági Anna	9	C
+145	Érdi Marcell	8	B
+146	Sebe Péter Ábel	10	F
+147	Pintér Johanna Réka	7	B
+148	Lakat András	7	B
+149	Létay Dániel	10	E
+150	Ózdi Vince	9	C
+151	Koppány Zétény	9	F
+152	Szerdei Marcell	10	C
+153	Dobó Kinga	9	C
+154	Kerék Levente Bán	9	C
+155	Végh Levente	10	D
+156	Vete Villő Eleonóra	9	F
+157	Téli Patrik Zoltán	10	D
+158	Szabó Lilla	9	F
+159	Kandó Áron	7	B
+160	Dóri Patrik	7	B
+161	Darabont Andrea	9	C
+162	Hegedüs-Pékó Dóra	9	F
+163	Bor András Márton	9	D
+164	Bérdy Máté	10	C
+165	Borbély Judit	9	N
+166	Bab Balázs	11	C
+167	Gerai Róza	7	B
+168	Hetei Dániel	7	A
+169	Tóth Dániel Márk	7	A
+170	Kesztyűs Panna	9	C
+171	Szőcs Barnabás	9	D
+172	Magyar Mátyás	7	A
+173	Róka Károly	7	A
+174	Radó Márton	7	A
+175	Baranyi Márton	9	C
+176	Gera Balázs	7	A
+177	Vete Ákos Gábor	9	B
+178	Zada Levente	9	C
+179	Luca Gabriel	9	D
+180	Léti András	7	B
+181	Hunor Olivér	7	A
+182	Kóka András Balázs	9	C
+183	Rozina Antal	10	A
+184	Toma Mátyás János	9	N
+185	Pesti Tamás János	9	A
+186	Csonka Dóra	9	C
+187	Hajdu Bence	9	C
+188	Népi Ákos	7	A
+189	Vörös Balázs	9	A
+190	Népi Máté	9	C
+191	Tétényi Dániel	7	B
+192	Lengyel Dániel	7	A
+193	Szabó Roland	9	N
+194	Benke Roland	7	B
+195	Bárdy Dávid	7	B
+196	Line Benjamin Woodbridge	9	N
+197	Jenei László	9	B
+198	Györgyi Donát Móric	9	N
+199	Gerai Márton	11	A
+200	Vörös Máté	11	C
+201	Török Csongor	11	C
+202	Csoók Áron	9	C
+203	Szabolcs Ádám	10	D
+204	Baka Zoltán	11	E
+205	Tinódi Lili	10	B
+206	Dere Domonkos Márk	10	B
+207	Gara Kristóf Ágoston	12	A
+208	Nóra Noémi	11	A
+209	Magyar Máté	9	F
+210	Vete Tünde Szamóca	10	D
+211	Soltész Andrea	10	F
+212	Szabó Zsófia	10	D
+213	Nagy Borbála	9	F
+214	Antal Benő	7	A
+215	Hajbó Sára	8	B
+216	Létay Jázmin	7	A
+217	Dere Endre	9	B
+218	Nagy Eszter Hajnalka	10	D
+219	Zsády Veronika	9	N
+220	Mala Dorottya	9	N
+221	Gazsó Emma	9	F
+222	Fehér Csenge	8	A
+223	Tas Péter Marcell	8	A
+224	Kis Máté Levente	8	B
+225	Haba Klára Katalin	8	A
+226	Balog Marcell	8	B
+227	Érdi Gergely	10	B
+228	Nagy Eszter	10	D
+229	Szalai Liza	12	A
+230	Sásdi Virág	10	C
+231	Ózdi Hanna	10	D
+232	Nagy Dorottya Sára	10	C
+233	Lovász Laura	10	C
+234	Raday Barnabás	10	C
+235	Ferke Tamás Miklós	10	A
+236	Mészáros Anna	10	C
+237	Vete Máté	7	B
+238	Horváth Milán Zoltán	7	A
+239	Bazsa Eszter	7	A
+240	Baráth Réka Barbara	7	A
+241	Mónos Gergely	7	A
+242	Mészáros Marcell	7	A
+243	Égi Réka Luca	7	A
+244	Balog Adél	7	A
+245	Aradi Anna	7	A
+246	Jenei Zita	7	A
+247	Lovász Aliz	7	B
+248	Vettel Naómi	7	A
+249	Nagy Hanna	7	A
+250	Mészáros Dorottya	9	E
+251	Kende Réka	9	E
+252	Debreceni Domonkos	9	E
+253	Bárdy Márk Martin	9	E
+254	Teréki Balázs Máté	9	E
+255	Vince Zsigmond	9	E
+256	Fóti Benő	9	E
+257	Darabos Balázs	9	E
+258	Sas Emma	9	E
+259	Halász Martin Dávid	9	E
+260	Nánay Boglárka	9	C
+261	Nagy Péter	9	C
+262	Bíró Andrea	9	C
+263	Béri Lívia	9	C
+264	Hegedűs Enikő	9	C
+265	Roba Dóra	9	C
+266	Daday Dániel	9	C
+267	Halász Eszter	9	C
+268	Rab Márton	9	C
+269	Nánay Barnabás	9	C
+270	Bán Sára	11	B
+271	Gara Rozina	7	B
+272	Kovács Petra	7	B
+273	Kiss Lilla Flóra	7	B
+274	Ballay Beáta	10	B
+275	Ostor Janka	9	A
+276	Fás Eszter	9	E
+277	Vesze Lea	7	B
+278	Gara Benő	9	B
+279	Fekete Borbála	9	B
+280	Márta Bálint	10	C
+281	Csécsi Villő	10	F
+282	Rátóti Vencel Rudolf	10	B
+283	Perpi Hanna	8	B
+284	Menyhért Flóra Lujza	8	A
+285	Szegedi Eszter	7	A
+286	Gáspár Lili	9	B
+287	Hanna Flóra	11	B
+288	Hegedűs Dóra	7	B
+289	Győri Lia Miriam	9	E
+290	Bécsi Andrea József	11	C
+291	Banas Szonja	7	B
+292	Kovács Lili	11	B
+293	Kirschner Virág Lili	9	D
+294	Kalocsai Judit Eszter	11	C
+295	Tóth Zsófia	11	C
+296	Csabai Nóra	10	E
+297	Vete Laura Szófia	9	N
+298	Biró Veronika	9	F
+299	Mányai Izabella	7	B
+300	Égi Hanna Imola	8	A
+301	Koltai Dóra	10	C
+302	Béres Kata	7	A
+303	Léki Fruzsina	12	A
+304	Merész Balázs Dániel	12	A
+305	Halász Ákos Miklós	8	B
+306	Mihályi Bence	8	B
+307	Andocsi Brúnó	9	A
